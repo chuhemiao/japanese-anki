@@ -1,0 +1,6464 @@
+[
+  {
+    "id": "7e52eef9-34f0-4b4f-818c-745827198c9a",
+    "japanese": "ああ",
+    "english": "Ah!, Oh!",
+    "exampleSentenceJapanese": "ああ、びっくりしました。",
+    "exampleSentenceEnglish": "ああ, I was surprised.",
+    "partOfSpeech": "感動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "69bcadb1-7179-4d80-9b5e-32acae96b681",
+    "japanese": "会う",
+    "english": "to meet, to see",
+    "exampleSentenceJapanese": "会うを買いました。",
+    "exampleSentenceEnglish": "I bought a 会う.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "4587c118-643f-4676-ada0-9a5aeaadb748",
+    "japanese": "青",
+    "english": "blue",
+    "exampleSentenceJapanese": "青を買いました。",
+    "exampleSentenceEnglish": "I bought a 青.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "27acf9b4-2bf5-41e2-83e8-04d3e8e11bf0",
+    "japanese": "青い",
+    "english": "blue",
+    "exampleSentenceJapanese": "今日はとても青いです。",
+    "exampleSentenceEnglish": "Today is very 青い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "680fdd8c-83e2-4521-a5a9-679c05264277",
+    "japanese": "赤",
+    "english": "red",
+    "exampleSentenceJapanese": "赤を買いました。",
+    "exampleSentenceEnglish": "I bought a 赤.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "dbda215f-7752-4965-8290-46a3c58bf9fa",
+    "japanese": "赤い",
+    "english": "red",
+    "exampleSentenceJapanese": "今日はとても赤いです。",
+    "exampleSentenceEnglish": "Today is very 赤い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "8ebb6a7b-7370-4dfd-abb6-fb37fd567b30",
+    "japanese": "明るい",
+    "english": "bright (in reference to personality or weather); cheerful",
+    "exampleSentenceJapanese": "今日はとても明るいです。",
+    "exampleSentenceEnglish": "Today is very 明るい.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e3bacc96-9b28-4a01-a275-fb139da64a0d",
+    "japanese": "秋",
+    "english": "fall (season)",
+    "exampleSentenceJapanese": "秋を買いました。",
+    "exampleSentenceEnglish": "I bought a 秋.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d787a91c-7b4f-478d-b2ca-75cb3148a07b",
+    "japanese": "開く",
+    "english": "to open, to become open",
+    "exampleSentenceJapanese": "開くを買いました。",
+    "exampleSentenceEnglish": "I bought a 開く.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "29dd7346-7b8e-4a2b-988d-c7fdd410496c",
+    "japanese": "開ける",
+    "english": "to open (v.t.)",
+    "exampleSentenceJapanese": "毎朝開けるようにしています。",
+    "exampleSentenceEnglish": "I try to 開ける every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "80b026f6-42e8-418f-8a62-6550ef71c9c0",
+    "japanese": "上げる",
+    "english": "to raise, to lift",
+    "exampleSentenceJapanese": "毎朝上げるようにしています。",
+    "exampleSentenceEnglish": "I try to 上げる every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "33515be4-b049-48a5-9c7f-c519c4938c3b",
+    "japanese": "朝",
+    "english": "morning",
+    "exampleSentenceJapanese": "朝を買いました。",
+    "exampleSentenceEnglish": "I bought a 朝.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "b02ae412-ab9e-43cb-8109-0c882a09e0a3",
+    "japanese": "朝御飯",
+    "english": "breakfast",
+    "exampleSentenceJapanese": "朝御飯を買いました。",
+    "exampleSentenceEnglish": "I bought a 朝御飯.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "820f1369-ee9a-4ec4-839d-d0bb46c513b2",
+    "japanese": "明後日",
+    "english": "day after tomorrow",
+    "exampleSentenceJapanese": "明後日を買いました。",
+    "exampleSentenceEnglish": "I bought a 明後日.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "edd0abae-2de6-4aa0-9c26-6914fd1bec2b",
+    "japanese": "足; 脚",
+    "english": "foot; leg",
+    "exampleSentenceJapanese": "足; 脚を買いました。",
+    "exampleSentenceEnglish": "I bought a 足; 脚.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "4909b52d-83b0-4e25-b43b-f35f6719600f",
+    "japanese": "明日",
+    "english": "tomorrow",
+    "exampleSentenceJapanese": "明日を買いました。",
+    "exampleSentenceEnglish": "I bought a 明日.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "aef46df8-4b6d-46ba-b0e5-6b566a64b9e6",
+    "japanese": "あそこ",
+    "english": "there, over there, that place",
+    "exampleSentenceJapanese": "あそこを買いました。",
+    "exampleSentenceEnglish": "I bought a あそこ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "b9393c3f-a1ae-4088-9a66-3880d0c7a81c",
+    "japanese": "遊ぶ",
+    "english": "to play; to spend time pleasantly; to hang out",
+    "exampleSentenceJapanese": "遊ぶを買いました。",
+    "exampleSentenceEnglish": "I bought a 遊ぶ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "b792b604-88e5-440e-a3fb-68f7119d30bb",
+    "japanese": "暖かい",
+    "english": "warm",
+    "exampleSentenceJapanese": "今日はとても暖かいです。",
+    "exampleSentenceEnglish": "Today is very 暖かい.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "9a74e82b-fa14-491c-8537-31e887f4b387",
+    "japanese": "頭",
+    "english": "head",
+    "exampleSentenceJapanese": "頭を買いました。",
+    "exampleSentenceEnglish": "I bought a 頭.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "6c201050-7a6c-4f42-a14f-92f540365f44",
+    "japanese": "新しい",
+    "english": "new",
+    "exampleSentenceJapanese": "今日はとても新しいです。",
+    "exampleSentenceEnglish": "Today is very 新しい.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "6ca32b26-053b-4646-839c-2f18dd76d31c",
+    "japanese": "あちら",
+    "english": "this way (polite)",
+    "exampleSentenceJapanese": "あちらを買いました。",
+    "exampleSentenceEnglish": "I bought a あちら.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "52191685-d70c-491c-9152-2d37005c3cc7",
+    "japanese": "暑い",
+    "english": "hot (in reference to weather), warm",
+    "exampleSentenceJapanese": "今日はとても暑いです。",
+    "exampleSentenceEnglish": "Today is very 暑い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "42a915b5-4323-493d-a28a-43d1ce1d1686",
+    "japanese": "熱い",
+    "english": "hot (objects)",
+    "exampleSentenceJapanese": "今日はとても熱いです。",
+    "exampleSentenceEnglish": "Today is very 熱い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "df706b66-4e38-40a5-b0cb-ad3220d13cab",
+    "japanese": "厚い",
+    "english": "kind, warm(hearted), thick, deep",
+    "exampleSentenceJapanese": "今日はとても厚いです。",
+    "exampleSentenceEnglish": "Today is very 厚い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "2990b1e6-8a58-43a2-9b75-bb7adf35a122",
+    "japanese": "あっち",
+    "english": "over there",
+    "exampleSentenceJapanese": "あっちを買いました。",
+    "exampleSentenceEnglish": "I bought a あっち.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d5d7e4ad-dd37-4425-81b7-ef5f72724074",
+    "japanese": "後",
+    "english": "afterwards (later); in the future; the rest; since then",
+    "exampleSentenceJapanese": "後を買いました。",
+    "exampleSentenceEnglish": "I bought a 後.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "aae36d01-0888-417f-8603-fb1f27b14c03",
+    "japanese": "あなた",
+    "english": "you",
+    "exampleSentenceJapanese": "あなたを買いました。",
+    "exampleSentenceEnglish": "I bought a あなた.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "27289a80-8b28-4f9f-8976-0839f9eb9d9d",
+    "japanese": "兄",
+    "english": "(my) older brother (humble)",
+    "exampleSentenceJapanese": "兄を買いました。",
+    "exampleSentenceEnglish": "I bought a 兄.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "52d63cfe-7e17-470c-9ef0-ed87119d810b",
+    "japanese": "姉",
+    "english": "(my) older sister (humble)",
+    "exampleSentenceJapanese": "姉を買いました。",
+    "exampleSentenceEnglish": "I bought a 姉.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "69f4a8cb-0223-4197-9492-327d2c366464",
+    "japanese": "アパート",
+    "english": "apartment (abbr.)",
+    "exampleSentenceJapanese": "アパートを買いました。",
+    "exampleSentenceEnglish": "I bought a アパート.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "1e321126-a4e1-4591-bb2a-15f444cb46bf",
+    "japanese": "あの",
+    "english": "that over there; like that, that way; um...",
+    "exampleSentenceJapanese": "あのを買いました。",
+    "exampleSentenceEnglish": "I bought a あの.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "8ce55345-b31d-4775-b74f-5bd5415735f9",
+    "japanese": "浴びる",
+    "english": "to bathe, to shower",
+    "exampleSentenceJapanese": "毎朝浴びるようにしています。",
+    "exampleSentenceEnglish": "I try to 浴びる every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "60b55d24-e173-42ba-a08b-6219199b2477",
+    "japanese": "危ない",
+    "english": "dangerous, critical",
+    "exampleSentenceJapanese": "今日はとても危ないです。",
+    "exampleSentenceEnglish": "Today is very 危ない.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "39d45e90-f0ce-41b3-a502-0db95306f9ce",
+    "japanese": "甘い",
+    "english": "generous, sweet",
+    "exampleSentenceJapanese": "今日はとても甘いです。",
+    "exampleSentenceEnglish": "Today is very 甘い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "674cff1b-60f5-4e29-93d2-1d17b2ba7e62",
+    "japanese": "余り",
+    "english": "not very; surplus",
+    "exampleSentenceJapanese": "余りを買いました。",
+    "exampleSentenceEnglish": "I bought a 余り.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "89aca8ea-b85f-4937-8e10-928a482599f7",
+    "japanese": "雨",
+    "english": "rain",
+    "exampleSentenceJapanese": "雨を買いました。",
+    "exampleSentenceEnglish": "I bought a 雨.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "7a888788-9db7-4a98-8672-243230d1140b",
+    "japanese": "飴",
+    "english": "(hard) candy",
+    "exampleSentenceJapanese": "飴を買いました。",
+    "exampleSentenceEnglish": "I bought a 飴.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c99cf3f1-592b-471e-80a2-df682211cbec",
+    "japanese": "洗う",
+    "english": "to wash",
+    "exampleSentenceJapanese": "洗うを買いました。",
+    "exampleSentenceEnglish": "I bought a 洗う.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "8a101208-feea-48b6-99c5-2b1f19e779f6",
+    "japanese": "在る",
+    "english": "to be, to have",
+    "exampleSentenceJapanese": "毎朝在るようにしています。",
+    "exampleSentenceEnglish": "I try to 在る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d3c69c1a-81ee-4759-9e92-6edd69473c00",
+    "japanese": "有る",
+    "english": "to be, to have",
+    "exampleSentenceJapanese": "毎朝有るようにしています。",
+    "exampleSentenceEnglish": "I try to 有る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "bff00230-b558-4ebf-afc2-56a7ad4e0fd0",
+    "japanese": "歩く",
+    "english": "to walk",
+    "exampleSentenceJapanese": "歩くを買いました。",
+    "exampleSentenceEnglish": "I bought a 歩く.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "9bb65a65-cad0-41e2-951d-762b0ec625fd",
+    "japanese": "あれ",
+    "english": "that one (over there)",
+    "exampleSentenceJapanese": "あれを買いました。",
+    "exampleSentenceEnglish": "I bought a あれ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "52e4f423-0d4e-491b-bc13-9552c709bf15",
+    "japanese": "いい; よい",
+    "english": "good",
+    "exampleSentenceJapanese": "今日はとてもいい; よいです。",
+    "exampleSentenceEnglish": "Today is very いい; よい.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "47e776c2-262c-4216-a4bb-d0b72b613d0a",
+    "japanese": "いいえ",
+    "english": "no, not at all",
+    "exampleSentenceJapanese": "いいえ、びっくりしました。",
+    "exampleSentenceEnglish": "いいえ, I was surprised.",
+    "partOfSpeech": "感動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f68af36e-f9db-4b33-ad7d-6b4085658b8b",
+    "japanese": "言う",
+    "english": "to say",
+    "exampleSentenceJapanese": "言うを買いました。",
+    "exampleSentenceEnglish": "I bought a 言う.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d6055a05-d56b-4f7f-9287-48dc2536fbf7",
+    "japanese": "家",
+    "english": "house, home",
+    "exampleSentenceJapanese": "家を買いました。",
+    "exampleSentenceEnglish": "I bought a 家.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "8c95aada-d8c2-440b-bf4b-5c1d90ce0303",
+    "japanese": "いかが",
+    "english": "how, in what way",
+    "exampleSentenceJapanese": "いかがを買いました。",
+    "exampleSentenceEnglish": "I bought a いかが.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d947c30c-ff64-4918-b7c9-8286d6c1af03",
+    "japanese": "行く; ゆく",
+    "english": "to go",
+    "exampleSentenceJapanese": "行く; ゆくを買いました。",
+    "exampleSentenceEnglish": "I bought a 行く; ゆく.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "061bf41f-65a7-4e3e-af4c-a9b6c672e7c0",
+    "japanese": "いくつ",
+    "english": "how many, how old",
+    "exampleSentenceJapanese": "いくつを買いました。",
+    "exampleSentenceEnglish": "I bought a いくつ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "429e2df4-c30e-4a47-af72-0f82b07f6d26",
+    "japanese": "いくら",
+    "english": "how much, how many",
+    "exampleSentenceJapanese": "いくらを買いました。",
+    "exampleSentenceEnglish": "I bought a いくら.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c99ac201-7e87-49f3-be6b-68cf7df33ca5",
+    "japanese": "池",
+    "english": "pond",
+    "exampleSentenceJapanese": "池を買いました。",
+    "exampleSentenceEnglish": "I bought a 池.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "a1a8be0c-8040-4dc6-94c1-ce768f82f96c",
+    "japanese": "医者",
+    "english": "doctor; physician",
+    "exampleSentenceJapanese": "医者を買いました。",
+    "exampleSentenceEnglish": "I bought a 医者.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "2f373f4f-00c6-4224-9b6b-0e4a71e0c2d3",
+    "japanese": "椅子",
+    "english": "chair",
+    "exampleSentenceJapanese": "椅子を買いました。",
+    "exampleSentenceEnglish": "I bought a 椅子.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "ef2c3a8c-e591-47d0-b2ea-6f2f39a462ad",
+    "japanese": "忙しい",
+    "english": "busy (people, days)",
+    "exampleSentenceJapanese": "今日はとても忙しいです。",
+    "exampleSentenceEnglish": "Today is very 忙しい.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "cbc4c44b-5448-490d-86d5-b0c84fc983ec",
+    "japanese": "痛い",
+    "english": "hurt; painful; sore",
+    "exampleSentenceJapanese": "今日はとても痛いです。",
+    "exampleSentenceEnglish": "Today is very 痛い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "7c6f9f4c-9ef8-457d-ae49-dac0dcdc4184",
+    "japanese": "一",
+    "english": "one",
+    "exampleSentenceJapanese": "一を買いました。",
+    "exampleSentenceEnglish": "I bought a 一.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "eb4d155d-ef62-47f6-961b-7699c96874ae",
+    "japanese": "一日",
+    "english": "one day (duration)",
+    "exampleSentenceJapanese": "一日を買いました。",
+    "exampleSentenceEnglish": "I bought a 一日.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "18ca3892-5369-4408-b424-360501d91f7a",
+    "japanese": "一番",
+    "english": "best (most), first, number one",
+    "exampleSentenceJapanese": "一番を買いました。",
+    "exampleSentenceEnglish": "I bought a 一番.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "b6000d9c-2767-41df-81b9-ee1465a7f5aa",
+    "japanese": "いつ",
+    "english": "when",
+    "exampleSentenceJapanese": "いつを買いました。",
+    "exampleSentenceEnglish": "I bought a いつ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "4d175eeb-7612-4aa1-8819-247622e0c171",
+    "japanese": "五日",
+    "english": "five days; fifth day of the month",
+    "exampleSentenceJapanese": "五日を買いました。",
+    "exampleSentenceEnglish": "I bought a 五日.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "3360ab37-04db-4c0f-bf68-b08aa1a4a54f",
+    "japanese": "一緒",
+    "english": "together",
+    "exampleSentenceJapanese": "一緒を買いました。",
+    "exampleSentenceEnglish": "I bought a 一緒.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "99336989-47d7-4d8e-a3c8-5d69f4b52d65",
+    "japanese": "五つ",
+    "english": "five things",
+    "exampleSentenceJapanese": "五つを買いました。",
+    "exampleSentenceEnglish": "I bought a 五つ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c8f60d9c-8a4e-415e-90f4-1cd21d831035",
+    "japanese": "いつも",
+    "english": "always, usually, every time, never (with neg. verb)",
+    "exampleSentenceJapanese": "いつもを買いました。",
+    "exampleSentenceEnglish": "I bought a いつも.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "3a44d08d-ee4c-4457-887a-66b7ec579647",
+    "japanese": "犬",
+    "english": "dog",
+    "exampleSentenceJapanese": "犬を買いました。",
+    "exampleSentenceEnglish": "I bought a 犬.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "4c70c1a2-79f9-493e-9bfd-51d0d7ef629e",
+    "japanese": "今",
+    "english": "now",
+    "exampleSentenceJapanese": "今を買いました。",
+    "exampleSentenceEnglish": "I bought a 今.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "01eda660-d080-42b6-94b1-80fcb16fadeb",
+    "japanese": "意味",
+    "english": "meaning, significance",
+    "exampleSentenceJapanese": "意味を買いました。",
+    "exampleSentenceEnglish": "I bought a 意味.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "bc0d4c35-4b4f-4c7d-848f-b63c8bd1f399",
+    "japanese": "妹",
+    "english": "younger sister (humble)",
+    "exampleSentenceJapanese": "妹を買いました。",
+    "exampleSentenceEnglish": "I bought a 妹.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "6bc662d9-beac-4a06-940b-2985752a9df9",
+    "japanese": "嫌",
+    "english": "disagreeable, detestable, unpleasant",
+    "exampleSentenceJapanese": "嫌を買いました。",
+    "exampleSentenceEnglish": "I bought a 嫌.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f8d4f8b0-1bd7-4f18-a94e-90ff4bc61bc0",
+    "japanese": "入口",
+    "english": "entrance",
+    "exampleSentenceJapanese": "入口を買いました。",
+    "exampleSentenceEnglish": "I bought a 入口.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "eb508725-5587-4a1b-be79-45b756647c7d",
+    "japanese": "居る",
+    "english": "(humble) to be (animate), to exist",
+    "exampleSentenceJapanese": "毎朝居るようにしています。",
+    "exampleSentenceEnglish": "I try to 居る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "92136f12-f058-4ccc-8121-36717eab9c21",
+    "japanese": "要る",
+    "english": "to need",
+    "exampleSentenceJapanese": "毎朝要るようにしています。",
+    "exampleSentenceEnglish": "I try to 要る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e9c42741-ed0d-4af5-817c-3f0a27b7a3d5",
+    "japanese": "入れる",
+    "english": "to put in",
+    "exampleSentenceJapanese": "毎朝入れるようにしています。",
+    "exampleSentenceEnglish": "I try to 入れる every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "37550e51-9cc9-44f8-91dd-8fc529b6489e",
+    "japanese": "色",
+    "english": "color",
+    "exampleSentenceJapanese": "色を買いました。",
+    "exampleSentenceEnglish": "I bought a 色.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "ba1951aa-5143-43cf-a0d2-8bfd441b1f50",
+    "japanese": "色々",
+    "english": "various",
+    "exampleSentenceJapanese": "色々を買いました。",
+    "exampleSentenceEnglish": "I bought a 色々.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "36959048-2422-467a-86fb-b6427a7aa614",
+    "japanese": "上",
+    "english": "above (up, top, etc.), over, on top of",
+    "exampleSentenceJapanese": "上を買いました。",
+    "exampleSentenceEnglish": "I bought a 上.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e8a4c03b-870f-4afb-822f-3e659e71a737",
+    "japanese": "後ろ",
+    "english": "back, behind, rear",
+    "exampleSentenceJapanese": "後ろを買いました。",
+    "exampleSentenceEnglish": "I bought a 後ろ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "605b156c-afa7-4ba1-a4ad-ec1809b5e6ae",
+    "japanese": "薄い",
+    "english": "thin, weak",
+    "exampleSentenceJapanese": "今日はとても薄いです。",
+    "exampleSentenceEnglish": "Today is very 薄い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "4b255bb8-62b8-4d25-8dc6-817befb3b84f",
+    "japanese": "歌",
+    "english": "a song",
+    "exampleSentenceJapanese": "歌を買いました。",
+    "exampleSentenceEnglish": "I bought a 歌.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "5375a2bb-72df-4ae3-b99e-e5482113ee78",
+    "japanese": "歌う",
+    "english": "to sing",
+    "exampleSentenceJapanese": "歌うを買いました。",
+    "exampleSentenceEnglish": "I bought a 歌う.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "29e16021-47fb-465e-ab0f-7716ad1afdb5",
+    "japanese": "うち",
+    "english": "home; house; my place",
+    "exampleSentenceJapanese": "うちを買いました。",
+    "exampleSentenceEnglish": "I bought a うち.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "a798e680-535b-4f34-9de2-386deda0a724",
+    "japanese": "生まれる",
+    "english": "to be born",
+    "exampleSentenceJapanese": "毎朝生まれるようにしています。",
+    "exampleSentenceEnglish": "I try to 生まれる every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c154dea9-85e6-4e65-a8dc-239c388a8c02",
+    "japanese": "海",
+    "english": "sea, beach",
+    "exampleSentenceJapanese": "海を買いました。",
+    "exampleSentenceEnglish": "I bought a 海.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "efbcb460-60c1-4db6-9485-7a96bb4e09a4",
+    "japanese": "売る",
+    "english": "to sell (v.t.)",
+    "exampleSentenceJapanese": "毎朝売るようにしています。",
+    "exampleSentenceEnglish": "I try to 売る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "8d9b547c-0202-4739-b0b8-85d5d1a198b4",
+    "japanese": "うるさい",
+    "english": "noisy; annoying",
+    "exampleSentenceJapanese": "今日はとてもうるさいです。",
+    "exampleSentenceEnglish": "Today is very うるさい.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "ee667547-04ca-49a8-b113-338cf96f19c7",
+    "japanese": "上着",
+    "english": "coat, jacket",
+    "exampleSentenceJapanese": "上着を買いました。",
+    "exampleSentenceEnglish": "I bought a 上着.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "0803f5a4-7552-4c50-a610-37121bdb4212",
+    "japanese": "絵",
+    "english": "a painting; a picture; a drawing",
+    "exampleSentenceJapanese": "絵を買いました。",
+    "exampleSentenceEnglish": "I bought a 絵.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "6090d62f-fd55-4bfa-8f1e-a20205357f83",
+    "japanese": "映画",
+    "english": "movie, film",
+    "exampleSentenceJapanese": "映画を買いました。",
+    "exampleSentenceEnglish": "I bought a 映画.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "64fb0e35-cb1f-4ff1-9591-1de480cf371e",
+    "japanese": "映画館",
+    "english": "movie theater, cinema",
+    "exampleSentenceJapanese": "映画館を買いました。",
+    "exampleSentenceEnglish": "I bought a 映画館.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "a76560ef-1e2e-44ae-9542-7f5f7416fe5d",
+    "japanese": "英語",
+    "english": "English (language)",
+    "exampleSentenceJapanese": "英語を買いました。",
+    "exampleSentenceEnglish": "I bought a 英語.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "bc1037f0-64d0-4340-9fd2-e215f0859d10",
+    "japanese": "ええ",
+    "english": "yes",
+    "exampleSentenceJapanese": "ええを買いました。",
+    "exampleSentenceEnglish": "I bought a ええ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "6e3c75f7-58d2-4308-9a63-59ed281fb739",
+    "japanese": "駅",
+    "english": "station",
+    "exampleSentenceJapanese": "駅を買いました。",
+    "exampleSentenceEnglish": "I bought a 駅.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "af3e0fef-2ac2-4651-bfc2-700bd4b06406",
+    "japanese": "エレベーター",
+    "english": "elevator",
+    "exampleSentenceJapanese": "エレベーターを買いました。",
+    "exampleSentenceEnglish": "I bought a エレベーター.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "7e805c92-2e2c-4fb8-a3cf-09ab88016afa",
+    "japanese": "～円",
+    "english": "Yen",
+    "exampleSentenceJapanese": "～円を買いました。",
+    "exampleSentenceEnglish": "I bought a ～円.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "255e361d-6d9a-42b1-a9d0-4fa5f46968ce",
+    "japanese": "鉛筆",
+    "english": "pencil",
+    "exampleSentenceJapanese": "鉛筆を買いました。",
+    "exampleSentenceEnglish": "I bought a 鉛筆.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "4f875c35-3c41-402f-ae93-d6b2b8b81b03",
+    "japanese": "お～",
+    "english": "honorable ~ (honorific)",
+    "exampleSentenceJapanese": "お～を買いました。",
+    "exampleSentenceEnglish": "I bought a お～.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "2029e008-c9fc-47a1-b1f8-5722613de7ee",
+    "japanese": "美味しい",
+    "english": "delicious, tasty",
+    "exampleSentenceJapanese": "今日はとても美味しいです。",
+    "exampleSentenceEnglish": "Today is very 美味しい.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "ec021cb8-2d13-4a99-bb14-5949a9acd05f",
+    "japanese": "多い",
+    "english": "many; there are a lot",
+    "exampleSentenceJapanese": "今日はとても多いです。",
+    "exampleSentenceEnglish": "Today is very 多い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "a26c9702-08d7-4e99-9ff1-20502d8b823b",
+    "japanese": "大きい",
+    "english": "big, large",
+    "exampleSentenceJapanese": "今日はとても大きいです。",
+    "exampleSentenceEnglish": "Today is very 大きい.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "6c06ebe2-99a4-4ab4-b17d-822311d59e74",
+    "japanese": "大きな",
+    "english": "big",
+    "exampleSentenceJapanese": "大きなな部屋に住んでいます。",
+    "exampleSentenceEnglish": "I live in a 大きな room.",
+    "partOfSpeech": "な形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "dddad882-6225-4544-8688-00fb790e6bd6",
+    "japanese": "大勢",
+    "english": "great number of people",
+    "exampleSentenceJapanese": "大勢を買いました。",
+    "exampleSentenceEnglish": "I bought a 大勢.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "7c888541-10e4-4ee0-8692-f0c92ff37c99",
+    "japanese": "お母さん",
+    "english": "mother (formal)",
+    "exampleSentenceJapanese": "お母さんを買いました。",
+    "exampleSentenceEnglish": "I bought a お母さん.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "31c5b0e7-be87-4ce1-8052-e62482dafe7f",
+    "japanese": "お菓子",
+    "english": "confections, sweets, snack",
+    "exampleSentenceJapanese": "お菓子を買いました。",
+    "exampleSentenceEnglish": "I bought a お菓子.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "3bf049ef-08fe-49fd-8b7d-757261d6f8f0",
+    "japanese": "お金",
+    "english": "money",
+    "exampleSentenceJapanese": "お金を買いました。",
+    "exampleSentenceEnglish": "I bought a お金.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f157fd92-a3b8-4142-a2af-1ad56a5305ff",
+    "japanese": "起きる",
+    "english": "to get up (e.g., from sleeping); to happen",
+    "exampleSentenceJapanese": "毎朝起きるようにしています。",
+    "exampleSentenceEnglish": "I try to 起きる every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "59f5f46b-6dc5-4709-ad4d-fcf63ee4c0e3",
+    "japanese": "置く",
+    "english": "to put; to lay; to place",
+    "exampleSentenceJapanese": "置くを買いました。",
+    "exampleSentenceEnglish": "I bought a 置く.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e5926810-e8ca-4860-aab3-877dc8737fc3",
+    "japanese": "奥さん",
+    "english": "(someone else's) wife (hon.)",
+    "exampleSentenceJapanese": "奥さんを買いました。",
+    "exampleSentenceEnglish": "I bought a 奥さん.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "8d9334ff-0fba-4062-99cc-a2b51cd3a453",
+    "japanese": "お酒",
+    "english": "sake; alcohol",
+    "exampleSentenceJapanese": "お酒を買いました。",
+    "exampleSentenceEnglish": "I bought a お酒.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "158782e9-0c49-42ed-b63b-0fbc5a719660",
+    "japanese": "お皿",
+    "english": "plate, dish",
+    "exampleSentenceJapanese": "お皿を買いました。",
+    "exampleSentenceEnglish": "I bought a お皿.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "72e822c0-46d8-44ce-a033-ac0f67a69ac2",
+    "japanese": "伯父; 叔父さん",
+    "english": "uncle, middle-aged man",
+    "exampleSentenceJapanese": "伯父; 叔父さんを買いました。",
+    "exampleSentenceEnglish": "I bought a 伯父; 叔父さん.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "9431c263-4a77-4322-a9dc-b0f8c3cbc79d",
+    "japanese": "おじいさん",
+    "english": "grandfather, male senior citizen",
+    "exampleSentenceJapanese": "おじいさんを買いました。",
+    "exampleSentenceEnglish": "I bought a おじいさん.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "24cb3b3f-9ee2-49ab-a395-82cc29495751",
+    "japanese": "教える",
+    "english": "to teach, to inform, to instruct",
+    "exampleSentenceJapanese": "毎朝教えるようにしています。",
+    "exampleSentenceEnglish": "I try to 教える every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c35b5ffb-1672-4eec-bfd9-fcc016df6f68",
+    "japanese": "押す",
+    "english": "to push, to press, to stamp (e.g., a passport)",
+    "exampleSentenceJapanese": "押すを買いました。",
+    "exampleSentenceEnglish": "I bought a 押す.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "343ecb74-05ed-49a6-a4f9-45e5e46cda9d",
+    "japanese": "遅い",
+    "english": "slow; (to be) late",
+    "exampleSentenceJapanese": "今日はとても遅いです。",
+    "exampleSentenceEnglish": "Today is very 遅い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "dd9c0c3c-23f8-4e5b-8867-2f37491bd89d",
+    "japanese": "お茶",
+    "english": "(green) tea",
+    "exampleSentenceJapanese": "お茶を買いました。",
+    "exampleSentenceEnglish": "I bought a お茶.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "193dc4bb-59bc-4eac-bc59-f5a182f2406d",
+    "japanese": "お手洗い",
+    "english": "toilet, restroom, bathroom (lit., a place to wash one's hands)",
+    "exampleSentenceJapanese": "今日はとてもお手洗いです。",
+    "exampleSentenceEnglish": "Today is very お手洗い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "88bdfcb3-9872-49e9-8dd2-64110495c054",
+    "japanese": "お父さん",
+    "english": "father (formal)",
+    "exampleSentenceJapanese": "お父さんを買いました。",
+    "exampleSentenceEnglish": "I bought a お父さん.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d5811d05-0ffb-4ddd-818d-ba32ae4e1f98",
+    "japanese": "弟",
+    "english": "younger brother",
+    "exampleSentenceJapanese": "弟を買いました。",
+    "exampleSentenceEnglish": "I bought a 弟.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "12393d82-44b7-414b-a7a3-d8eac2c0bb78",
+    "japanese": "男",
+    "english": "man, male",
+    "exampleSentenceJapanese": "男を買いました。",
+    "exampleSentenceEnglish": "I bought a 男.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "7b78ab80-5862-481e-95d2-0e3cad7a93a7",
+    "japanese": "男の子",
+    "english": "boy",
+    "exampleSentenceJapanese": "男の子を買いました。",
+    "exampleSentenceEnglish": "I bought a 男の子.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "64ee53da-7447-471d-94a2-ad3d1ed23038",
+    "japanese": "一昨日",
+    "english": "the day before yesterday",
+    "exampleSentenceJapanese": "一昨日を買いました。",
+    "exampleSentenceEnglish": "I bought a 一昨日.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "4865f6c0-da32-4ea4-a2b1-a7c247fb792c",
+    "japanese": "おととし",
+    "english": "year before last",
+    "exampleSentenceJapanese": "おととしを買いました。",
+    "exampleSentenceEnglish": "I bought a おととし.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "8303a1a8-bf03-47bc-ba71-9e0db3819ff6",
+    "japanese": "大人",
+    "english": "adult",
+    "exampleSentenceJapanese": "大人を買いました。",
+    "exampleSentenceEnglish": "I bought a 大人.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "53b17778-4239-40ca-abb4-a8e0ed7428ed",
+    "japanese": "お腹",
+    "english": "stomach",
+    "exampleSentenceJapanese": "お腹を買いました。",
+    "exampleSentenceEnglish": "I bought a お腹.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "5f382bbb-cefd-4eda-b85e-274a89207b8a",
+    "japanese": "同じ",
+    "english": "same, identical",
+    "exampleSentenceJapanese": "同じを買いました。",
+    "exampleSentenceEnglish": "I bought a 同じ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "251387d7-0ef7-452f-818b-dfa095b18b7a",
+    "japanese": "お兄さん",
+    "english": "(someone else's) older brother (formal)",
+    "exampleSentenceJapanese": "お兄さんを買いました。",
+    "exampleSentenceEnglish": "I bought a お兄さん.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "5d1732fb-ba83-4790-b4eb-55ef55bfd7f5",
+    "japanese": "お姉さん",
+    "english": "older sister (formal)",
+    "exampleSentenceJapanese": "お姉さんを買いました。",
+    "exampleSentenceEnglish": "I bought a お姉さん.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "4bd98cf8-5281-4935-8056-dac317df7f9b",
+    "japanese": "伯母さん; 叔母さん",
+    "english": "aunt",
+    "exampleSentenceJapanese": "伯母さん; 叔母さんを買いました。",
+    "exampleSentenceEnglish": "I bought a 伯母さん; 叔母さん.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "1ee88cbf-b6b9-4465-ba00-0b424ef1aaaa",
+    "japanese": "おばあさん",
+    "english": "grandmother, female senior-citizen",
+    "exampleSentenceJapanese": "おばあさんを買いました。",
+    "exampleSentenceEnglish": "I bought a おばあさん.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "cbce401f-8cdd-46ce-99f4-aa1d3f3431d6",
+    "japanese": "お風呂",
+    "english": "a bath",
+    "exampleSentenceJapanese": "お風呂を買いました。",
+    "exampleSentenceEnglish": "I bought a お風呂.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "2b2be4a8-acce-4883-b2c1-5de811c5f60a",
+    "japanese": "お弁当",
+    "english": "a boxed lunch",
+    "exampleSentenceJapanese": "お弁当を買いました。",
+    "exampleSentenceEnglish": "I bought a お弁当.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "4f0e59b1-0f74-4793-acb1-3d4131578934",
+    "japanese": "覚える",
+    "english": "to learn, to commit to memory, to remember, to memorize",
+    "exampleSentenceJapanese": "毎朝覚えるようにしています。",
+    "exampleSentenceEnglish": "I try to 覚える every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "6e4d23af-efee-47fa-877e-2ec40d14475e",
+    "japanese": "おまわりさん",
+    "english": "policeman (friendly term)",
+    "exampleSentenceJapanese": "おまわりさんを買いました。",
+    "exampleSentenceEnglish": "I bought a おまわりさん.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c2c44afe-c0ff-40a1-afe5-53b8286aef15",
+    "japanese": "重い",
+    "english": "heavy; serious",
+    "exampleSentenceJapanese": "今日はとても重いです。",
+    "exampleSentenceEnglish": "Today is very 重い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f6ed0029-076b-45d2-93ea-1cb24e3dc582",
+    "japanese": "面白い",
+    "english": "interesting, amusing",
+    "exampleSentenceJapanese": "今日はとても面白いです。",
+    "exampleSentenceEnglish": "Today is very 面白い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c03e2c09-3e1e-42ea-8a3c-f11baca2f69d",
+    "japanese": "泳ぐ",
+    "english": "to swim",
+    "exampleSentenceJapanese": "泳ぐを買いました。",
+    "exampleSentenceEnglish": "I bought a 泳ぐ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "9658c8c8-07ce-4e47-a0f2-33756fef2e5f",
+    "japanese": "降りる",
+    "english": "to get off",
+    "exampleSentenceJapanese": "毎朝降りるようにしています。",
+    "exampleSentenceEnglish": "I try to 降りる every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "5592b3c7-1c62-4d5a-81db-1175787726a9",
+    "japanese": "終る",
+    "english": "to finish, to close",
+    "exampleSentenceJapanese": "毎朝終るようにしています。",
+    "exampleSentenceEnglish": "I try to 終る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "36a7d64f-30fe-4835-a4a5-1a43d2c976f6",
+    "japanese": "音楽",
+    "english": "Music",
+    "exampleSentenceJapanese": "音楽を買いました。",
+    "exampleSentenceEnglish": "I bought a 音楽.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "604994a9-e6b1-4b7a-8b40-e10b554eec96",
+    "japanese": "女",
+    "english": "woman, female",
+    "exampleSentenceJapanese": "女を買いました。",
+    "exampleSentenceEnglish": "I bought a 女.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "cf9e2fe8-09cb-4cab-9090-ba6dd510d3a6",
+    "japanese": "女の子",
+    "english": "girl",
+    "exampleSentenceJapanese": "女の子を買いました。",
+    "exampleSentenceEnglish": "I bought a 女の子.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "9fa15435-70c3-428d-a9fa-8506966057b2",
+    "japanese": "～回",
+    "english": "counter for occurrences (~ times)",
+    "exampleSentenceJapanese": "～回を買いました。",
+    "exampleSentenceEnglish": "I bought a ～回.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N1"
+  },
+  {
+    "id": "04b62b8c-9322-4264-a271-0bb8a57b57d2",
+    "japanese": "～階",
+    "english": "counter for stories (floors) of a building",
+    "exampleSentenceJapanese": "～階を買いました。",
+    "exampleSentenceEnglish": "I bought a ～階.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N4"
+  },
+  {
+    "id": "6200b3fc-7b09-49fd-8d7e-4668b12a8011",
+    "japanese": "外国",
+    "english": "foreign country; abroad",
+    "exampleSentenceJapanese": "外国を買いました。",
+    "exampleSentenceEnglish": "I bought a 外国.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "ad98f322-0143-4556-a064-9ecbc74438cc",
+    "japanese": "外国人",
+    "english": "foreigner",
+    "exampleSentenceJapanese": "外国人を買いました。",
+    "exampleSentenceEnglish": "I bought a 外国人.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "42fb4bb0-cf65-478b-9173-a8728deeae3a",
+    "japanese": "会社",
+    "english": "company, corporation",
+    "exampleSentenceJapanese": "会社を買いました。",
+    "exampleSentenceEnglish": "I bought a 会社.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "05469b73-84dd-41e1-baf1-fcd826bf7f58",
+    "japanese": "階段",
+    "english": "stairs",
+    "exampleSentenceJapanese": "階段を買いました。",
+    "exampleSentenceEnglish": "I bought a 階段.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "6938c6ec-628a-404e-bca4-a15899bb2481",
+    "japanese": "買い物",
+    "english": "shopping",
+    "exampleSentenceJapanese": "買い物を買いました。",
+    "exampleSentenceEnglish": "I bought a 買い物.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e2ab0377-47f0-45bf-ad67-0f8c6f1b51fa",
+    "japanese": "買う",
+    "english": "to buy",
+    "exampleSentenceJapanese": "買うを買いました。",
+    "exampleSentenceEnglish": "I bought a 買う.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "a89715b8-3fab-4af2-9811-ab6ee373ea0a",
+    "japanese": "返す",
+    "english": "to return something",
+    "exampleSentenceJapanese": "返すを買いました。",
+    "exampleSentenceEnglish": "I bought a 返す.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "ddf95edf-afba-4fa4-8626-4d5382f4b4ec",
+    "japanese": "帰る",
+    "english": "to go back, to go home, to return",
+    "exampleSentenceJapanese": "毎朝帰るようにしています。",
+    "exampleSentenceEnglish": "I try to 帰る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "bc8c1e01-1a7b-4a4e-9f56-346de229e270",
+    "japanese": "顔",
+    "english": "face (body part)",
+    "exampleSentenceJapanese": "顔を買いました。",
+    "exampleSentenceEnglish": "I bought a 顔.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "30bbef21-c635-43c6-a346-ed8411265b43",
+    "japanese": "かかる",
+    "english": "it takes (amount of time, money) (v.i.)",
+    "exampleSentenceJapanese": "毎朝かかるようにしています。",
+    "exampleSentenceEnglish": "I try to かかる every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "7a8287e0-cf3b-4e78-a054-f53ac3881324",
+    "japanese": "鍵",
+    "english": "a lock; a key",
+    "exampleSentenceJapanese": "鍵を買いました。",
+    "exampleSentenceEnglish": "I bought a 鍵.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c38bf83b-a21e-4be4-b0e5-7ccd838d3190",
+    "japanese": "書く",
+    "english": "to write",
+    "exampleSentenceJapanese": "書くを買いました。",
+    "exampleSentenceEnglish": "I bought a 書く.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "0f852cde-9247-4a65-9b41-2f88c2adedb4",
+    "japanese": "学生",
+    "english": "student",
+    "exampleSentenceJapanese": "学生を買いました。",
+    "exampleSentenceEnglish": "I bought a 学生.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "77c8733f-8cd3-4f4f-9603-0f74ba7f4f96",
+    "japanese": "～か月",
+    "english": "(number of) months",
+    "exampleSentenceJapanese": "～か月を買いました。",
+    "exampleSentenceEnglish": "I bought a ～か月.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c0539195-0c4d-4b7e-8b14-f2a64e2275d6",
+    "japanese": "掛ける",
+    "english": "to put on (e.g., glasses); to hang (e.g., on a wall)",
+    "exampleSentenceJapanese": "毎朝掛けるようにしています。",
+    "exampleSentenceEnglish": "I try to 掛ける every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c00087d2-2cf7-43d3-860f-7d8ab74f7524",
+    "japanese": "かける",
+    "english": "to dial/call (e.g., phone); to sit down",
+    "exampleSentenceJapanese": "毎朝かけるようにしています。",
+    "exampleSentenceEnglish": "I try to かける every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "01be2081-4dff-4228-8503-61778dd708c0",
+    "japanese": "傘",
+    "english": "umbrella, parasol",
+    "exampleSentenceJapanese": "傘を買いました。",
+    "exampleSentenceEnglish": "I bought a 傘.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f5e1c4c5-b14c-44fb-a77e-6ea6735213c5",
+    "japanese": "貸す",
+    "english": "to lend",
+    "exampleSentenceJapanese": "貸すを買いました。",
+    "exampleSentenceEnglish": "I bought a 貸す.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "0fa5826e-71b8-4141-8754-1b8c8f247e7a",
+    "japanese": "風",
+    "english": "wind, breeze",
+    "exampleSentenceJapanese": "風を買いました。",
+    "exampleSentenceEnglish": "I bought a 風.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "4baa24b5-28b9-4817-a8b7-986b577feaa8",
+    "japanese": "風邪",
+    "english": "cold, flu",
+    "exampleSentenceJapanese": "風邪を買いました。",
+    "exampleSentenceEnglish": "I bought a 風邪.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f5a4cb01-0944-43ea-9884-32baff8b2708",
+    "japanese": "方",
+    "english": "-- honorific form for 人 (ひと) --; way of doing",
+    "exampleSentenceJapanese": "方を買いました。",
+    "exampleSentenceEnglish": "I bought a 方.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "63500e66-28b1-4a52-9d78-a58a5e286538",
+    "japanese": "家族",
+    "english": "family, members of a family",
+    "exampleSentenceJapanese": "家族を買いました。",
+    "exampleSentenceEnglish": "I bought a 家族.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "3ff0d536-fe0d-4c49-871d-337ef9e4d572",
+    "japanese": "片仮名",
+    "english": "katakana",
+    "exampleSentenceJapanese": "片仮名を買いました。",
+    "exampleSentenceEnglish": "I bought a 片仮名.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "8fffcf7e-80a8-45cd-8df7-516b38583555",
+    "japanese": "～月",
+    "english": "month of year",
+    "exampleSentenceJapanese": "～月を買いました。",
+    "exampleSentenceEnglish": "I bought a ～月.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "dacabd92-4106-4b7b-a27d-75366d6113be",
+    "japanese": "学校",
+    "english": "a school",
+    "exampleSentenceJapanese": "学校を買いました。",
+    "exampleSentenceEnglish": "I bought a 学校.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c8c4dc44-6ff2-43c4-bc95-1a9d4082d3b9",
+    "japanese": "カップ",
+    "english": "cup",
+    "exampleSentenceJapanese": "カップを買いました。",
+    "exampleSentenceEnglish": "I bought a カップ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c1a8c2d3-b6cd-443b-9145-fe7a69320bb4",
+    "japanese": "家庭",
+    "english": "home; family",
+    "exampleSentenceJapanese": "家庭を買いました。",
+    "exampleSentenceEnglish": "I bought a 家庭.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "507b430f-1182-4329-8550-f3fdf5b885a3",
+    "japanese": "角",
+    "english": "corner (e.g., desk, pavement)",
+    "exampleSentenceJapanese": "角を買いました。",
+    "exampleSentenceEnglish": "I bought a 角.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "64edd04a-ce9c-4775-bf64-4f0742605b8c",
+    "japanese": "かばん",
+    "english": "bag, basket",
+    "exampleSentenceJapanese": "かばんを買いました。",
+    "exampleSentenceEnglish": "I bought a かばん.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "ef6756e5-5ade-40ff-bbb7-1b078627015b",
+    "japanese": "花瓶",
+    "english": "(flower) vase",
+    "exampleSentenceJapanese": "花瓶を買いました。",
+    "exampleSentenceEnglish": "I bought a 花瓶.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e569023f-968a-4918-9206-e9ffd37e7aa9",
+    "japanese": "かぶる",
+    "english": "to wear, to put on (e.g., a hat on the head)",
+    "exampleSentenceJapanese": "毎朝かぶるようにしています。",
+    "exampleSentenceEnglish": "I try to かぶる every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "00355d58-4266-4942-bc9f-2973e94be2b6",
+    "japanese": "紙",
+    "english": "paper",
+    "exampleSentenceJapanese": "紙を買いました。",
+    "exampleSentenceEnglish": "I bought a 紙.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "4bbdf7fe-71ac-444f-86f0-e0dc92c5d83e",
+    "japanese": "カメラ",
+    "english": "camera",
+    "exampleSentenceJapanese": "カメラを買いました。",
+    "exampleSentenceEnglish": "I bought a カメラ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "4a21b9aa-4515-44e4-bd6a-1ea256f8fb6c",
+    "japanese": "火曜日",
+    "english": "Tuesday",
+    "exampleSentenceJapanese": "火曜日を買いました。",
+    "exampleSentenceEnglish": "I bought a 火曜日.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "33511abf-26ed-413a-a6d9-94949b844da7",
+    "japanese": "辛い",
+    "english": "hot and spicy; salty",
+    "exampleSentenceJapanese": "今日はとても辛いです。",
+    "exampleSentenceEnglish": "Today is very 辛い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "676e1686-0825-465b-8968-b930f513a2be",
+    "japanese": "体",
+    "english": "body; health",
+    "exampleSentenceJapanese": "体を買いました。",
+    "exampleSentenceEnglish": "I bought a 体.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "7085efda-019a-4712-8a04-8677336b6525",
+    "japanese": "借りる",
+    "english": "to borrow, to owe",
+    "exampleSentenceJapanese": "毎朝借りるようにしています。",
+    "exampleSentenceEnglish": "I try to 借りる every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "07561460-0f4c-40fa-a49b-ed245ef625d8",
+    "japanese": "～がる",
+    "english": "feel",
+    "exampleSentenceJapanese": "毎朝～がるようにしています。",
+    "exampleSentenceEnglish": "I try to ～がる every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "033f6362-03f0-4180-a8fe-2d888da04e15",
+    "japanese": "軽い",
+    "english": "light, non-serious, minor",
+    "exampleSentenceJapanese": "今日はとても軽いです。",
+    "exampleSentenceEnglish": "Today is very 軽い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "55ff1692-f884-4776-877a-29fc06a9ee07",
+    "japanese": "カレー",
+    "english": "curry (abbr. for curry and rice)",
+    "exampleSentenceJapanese": "カレーを買いました。",
+    "exampleSentenceEnglish": "I bought a カレー.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "072d70ba-7465-48c7-9bdb-c51f71d75057",
+    "japanese": "カレンダー",
+    "english": "calendar",
+    "exampleSentenceJapanese": "カレンダーを買いました。",
+    "exampleSentenceEnglish": "I bought a カレンダー.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "ffdd436f-e6d6-456d-80b7-75cff67bfbef",
+    "japanese": "川; 河",
+    "english": "river",
+    "exampleSentenceJapanese": "川; 河を買いました。",
+    "exampleSentenceEnglish": "I bought a 川; 河.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "28033a73-5534-4e8a-a5ad-96ebfa897bf1",
+    "japanese": "～側",
+    "english": "~ side",
+    "exampleSentenceJapanese": "～側を買いました。",
+    "exampleSentenceEnglish": "I bought a ～側.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N/A"
+  },
+  {
+    "id": "9fe81176-3128-402d-8fe2-6db9b51a596c",
+    "japanese": "可愛い",
+    "english": "cute, adorable",
+    "exampleSentenceJapanese": "今日はとても可愛いです。",
+    "exampleSentenceEnglish": "Today is very 可愛い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "3c7a5fe9-a926-4180-be83-ec3f6b4bda7b",
+    "japanese": "漢字",
+    "english": "kanji; Chinese character",
+    "exampleSentenceJapanese": "漢字を買いました。",
+    "exampleSentenceEnglish": "I bought a 漢字.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "2b489c78-f5c3-406e-ad7e-e8017393d1c7",
+    "japanese": "木",
+    "english": "tree, wood, timber",
+    "exampleSentenceJapanese": "木を買いました。",
+    "exampleSentenceEnglish": "I bought a 木.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "add69aef-34c8-4f8a-8263-97f7a014e59c",
+    "japanese": "黄色",
+    "english": "yellow",
+    "exampleSentenceJapanese": "黄色を買いました。",
+    "exampleSentenceEnglish": "I bought a 黄色.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "2f98808d-1e69-4ec1-bef8-be4fdcbd44cc",
+    "japanese": "黄色い",
+    "english": "yellow",
+    "exampleSentenceJapanese": "今日はとても黄色いです。",
+    "exampleSentenceEnglish": "Today is very 黄色い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "65daa657-b81b-44d3-8d13-2642d231f1e2",
+    "japanese": "消える",
+    "english": "to vanish, to disappear",
+    "exampleSentenceJapanese": "毎朝消えるようにしています。",
+    "exampleSentenceEnglish": "I try to 消える every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e7ba5396-970e-4c57-a5ca-1a651501b313",
+    "japanese": "聞く",
+    "english": "to hear, to listen, to ask",
+    "exampleSentenceJapanese": "聞くを買いました。",
+    "exampleSentenceEnglish": "I bought a 聞く.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "231ddba7-4d70-45f2-add2-fe71ba022ddc",
+    "japanese": "北",
+    "english": "north",
+    "exampleSentenceJapanese": "北を買いました。",
+    "exampleSentenceEnglish": "I bought a 北.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "681b0b20-1523-44dc-b5d5-e776a42e5308",
+    "japanese": "ギター",
+    "english": "guitar",
+    "exampleSentenceJapanese": "ギターを買いました。",
+    "exampleSentenceEnglish": "I bought a ギター.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "73f475f7-d219-46b8-808e-c8de4787dc23",
+    "japanese": "汚い",
+    "english": "dirty, unclean, filthy",
+    "exampleSentenceJapanese": "今日はとても汚いです。",
+    "exampleSentenceEnglish": "Today is very 汚い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "17fe8ede-8021-474a-b45e-0da2f4edfbaf",
+    "japanese": "喫茶店",
+    "english": "café",
+    "exampleSentenceJapanese": "喫茶店を買いました。",
+    "exampleSentenceEnglish": "I bought a 喫茶店.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "cdd7bb9e-160a-4496-9a8d-5d46c6ca5f56",
+    "japanese": "切手",
+    "english": "postal (postage) stamps",
+    "exampleSentenceJapanese": "切手を買いました。",
+    "exampleSentenceEnglish": "I bought a 切手.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "6efc2279-5560-4134-abf1-bea61dc771f3",
+    "japanese": "切符",
+    "english": "a ticket",
+    "exampleSentenceJapanese": "切符を買いました。",
+    "exampleSentenceEnglish": "I bought a 切符.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "41910bc2-b502-4e32-9c77-4844aabee5cc",
+    "japanese": "昨日",
+    "english": "yesterday",
+    "exampleSentenceJapanese": "昨日を買いました。",
+    "exampleSentenceEnglish": "I bought a 昨日.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c15fbdef-7145-4bae-896a-9eb193581f07",
+    "japanese": "九",
+    "english": "nine",
+    "exampleSentenceJapanese": "九を買いました。",
+    "exampleSentenceEnglish": "I bought a 九.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e4f1de17-5d33-48f0-ba48-496f08be4eeb",
+    "japanese": "牛肉",
+    "english": "beef",
+    "exampleSentenceJapanese": "牛肉を買いました。",
+    "exampleSentenceEnglish": "I bought a 牛肉.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "3b852c8a-ecc0-4538-aab8-e80666da8ae1",
+    "japanese": "牛乳",
+    "english": "milk",
+    "exampleSentenceJapanese": "牛乳を買いました。",
+    "exampleSentenceEnglish": "I bought a 牛乳.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f0cf8806-af0f-4ad7-9245-c7da2971a482",
+    "japanese": "今日",
+    "english": "today, this day",
+    "exampleSentenceJapanese": "今日を買いました。",
+    "exampleSentenceEnglish": "I bought a 今日.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "99e21100-e275-46ce-becd-d6f91b96e164",
+    "japanese": "教室",
+    "english": "classroom",
+    "exampleSentenceJapanese": "教室を買いました。",
+    "exampleSentenceEnglish": "I bought a 教室.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "730d8204-5426-468f-856d-a1ad3249cb56",
+    "japanese": "兄弟",
+    "english": "siblings (humble), brothers and sisters",
+    "exampleSentenceJapanese": "兄弟を買いました。",
+    "exampleSentenceEnglish": "I bought a 兄弟.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f6c22454-5058-4597-a71a-ddf425d7b57e",
+    "japanese": "去年",
+    "english": "last year",
+    "exampleSentenceJapanese": "去年を買いました。",
+    "exampleSentenceEnglish": "I bought a 去年.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f6e7cfe6-41a0-4bc5-a97c-205ca8e598a0",
+    "japanese": "嫌い",
+    "english": "dislike",
+    "exampleSentenceJapanese": "今日はとても嫌いです。",
+    "exampleSentenceEnglish": "Today is very 嫌い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "1ccfbb06-ebab-4a4c-88a3-583d47825e86",
+    "japanese": "切る",
+    "english": "to cut; to hang up (a phone)",
+    "exampleSentenceJapanese": "毎朝切るようにしています。",
+    "exampleSentenceEnglish": "I try to 切る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "18174301-be91-4a43-b26f-2ecbf38185bf",
+    "japanese": "着る",
+    "english": "to put on (clothes above your waist); to wear",
+    "exampleSentenceJapanese": "毎朝着るようにしています。",
+    "exampleSentenceEnglish": "I try to 着る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "fdc4dd70-6400-4aa3-a464-d4389a52aa04",
+    "japanese": "綺麗",
+    "english": "pretty, clean, tidy",
+    "exampleSentenceJapanese": "綺麗を買いました。",
+    "exampleSentenceEnglish": "I bought a 綺麗.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "9405f338-973c-4290-ad33-50c2a3099434",
+    "japanese": "キロ; キログラム",
+    "english": "(abbr.) kilo (kilogram)",
+    "exampleSentenceJapanese": "キロ; キログラムを買いました。",
+    "exampleSentenceEnglish": "I bought a キロ; キログラム.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "07220a72-a3b0-4c2f-9483-78fe72308aa3",
+    "japanese": "キロ; キロメートル",
+    "english": "(abbr.) kilo (kilometer)",
+    "exampleSentenceJapanese": "キロ; キロメートルを買いました。",
+    "exampleSentenceEnglish": "I bought a キロ; キロメートル.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "bd8bc475-c5c8-4fbc-b0a0-198f24159a57",
+    "japanese": "銀行",
+    "english": "bank",
+    "exampleSentenceJapanese": "銀行を買いました。",
+    "exampleSentenceEnglish": "I bought a 銀行.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c7577d9c-6f5c-451f-8b18-b01ed7be8f9d",
+    "japanese": "金曜日",
+    "english": "Friday",
+    "exampleSentenceJapanese": "金曜日を買いました。",
+    "exampleSentenceEnglish": "I bought a 金曜日.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "0b92fdf9-5d59-4d8a-9ea9-999cf879010f",
+    "japanese": "九",
+    "english": "nine",
+    "exampleSentenceJapanese": "九を買いました。",
+    "exampleSentenceEnglish": "I bought a 九.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "05f3caff-636a-4375-8679-7644a57da41a",
+    "japanese": "薬",
+    "english": "medicine",
+    "exampleSentenceJapanese": "薬を買いました。",
+    "exampleSentenceEnglish": "I bought a 薬.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f05628ff-0a10-48af-a1ed-bb3b7fd00839",
+    "japanese": "下さい",
+    "english": "(with te-form verb) please do for me",
+    "exampleSentenceJapanese": "今日はとても下さいです。",
+    "exampleSentenceEnglish": "Today is very 下さい.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "93c04ac1-8e5f-48f8-bf9f-941ef8a28853",
+    "japanese": "果物",
+    "english": "fruit",
+    "exampleSentenceJapanese": "果物を買いました。",
+    "exampleSentenceEnglish": "I bought a 果物.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "85864475-a6d0-4cb6-a5be-7c0f7a5b36dc",
+    "japanese": "口",
+    "english": "job opening; mouth",
+    "exampleSentenceJapanese": "口を買いました。",
+    "exampleSentenceEnglish": "I bought a 口.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "09f52e81-2c2e-4fb6-b2c6-1e72dbde6b6c",
+    "japanese": "靴",
+    "english": "shoes, footwear",
+    "exampleSentenceJapanese": "靴を買いました。",
+    "exampleSentenceEnglish": "I bought a 靴.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "6582046e-2042-4291-8825-131a129a433f",
+    "japanese": "靴下",
+    "english": "socks",
+    "exampleSentenceJapanese": "靴下を買いました。",
+    "exampleSentenceEnglish": "I bought a 靴下.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "08c67bb2-1883-4b9a-9296-4143d647e845",
+    "japanese": "国",
+    "english": "country; place of origin",
+    "exampleSentenceJapanese": "国を買いました。",
+    "exampleSentenceEnglish": "I bought a 国.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f5ae8321-372f-4fd3-8000-6bfd0360e556",
+    "japanese": "曇り",
+    "english": "cloudiness, cloudy weather",
+    "exampleSentenceJapanese": "曇りを買いました。",
+    "exampleSentenceEnglish": "I bought a 曇り.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "12931848-2b7d-40a7-9107-0ad0552abd45",
+    "japanese": "曇る",
+    "english": "to become cloudy, to become dim",
+    "exampleSentenceJapanese": "毎朝曇るようにしています。",
+    "exampleSentenceEnglish": "I try to 曇る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "0ad57b29-f82d-4aac-a3ea-0cbc1fabaef1",
+    "japanese": "暗い",
+    "english": "dark, gloomy",
+    "exampleSentenceJapanese": "今日はとても暗いです。",
+    "exampleSentenceEnglish": "Today is very 暗い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "49818770-2a4c-44ff-9286-4b595fa0e290",
+    "japanese": "～くらい; ぐらい",
+    "english": "approximate (quantity)",
+    "exampleSentenceJapanese": "今日はとても～くらい; ぐらいです。",
+    "exampleSentenceEnglish": "Today is very ～くらい; ぐらい.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "a4bae7a6-0276-42e6-a11f-cf0f89ceb1fc",
+    "japanese": "クラス",
+    "english": "a class",
+    "exampleSentenceJapanese": "クラスを買いました。",
+    "exampleSentenceEnglish": "I bought a クラス.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "6daceb97-e6c6-468f-95cd-f0a520193560",
+    "japanese": "グラム",
+    "english": "gram",
+    "exampleSentenceJapanese": "グラムを買いました。",
+    "exampleSentenceEnglish": "I bought a グラム.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "636be64c-d941-46ea-85fd-3ae0cc04c4f6",
+    "japanese": "来る",
+    "english": "to come",
+    "exampleSentenceJapanese": "毎朝来るようにしています。",
+    "exampleSentenceEnglish": "I try to 来る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e65b2e82-ff4c-432b-a7f2-0a075e259f87",
+    "japanese": "車",
+    "english": "car, vehicle",
+    "exampleSentenceJapanese": "車を買いました。",
+    "exampleSentenceEnglish": "I bought a 車.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d4b6e096-aad2-49f2-96a2-a4f1935e3c56",
+    "japanese": "黒",
+    "english": "black",
+    "exampleSentenceJapanese": "黒を買いました。",
+    "exampleSentenceEnglish": "I bought a 黒.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "2c2680a5-97a9-46a9-a404-6f87cb4a5227",
+    "japanese": "黒い",
+    "english": "black; dark",
+    "exampleSentenceJapanese": "今日はとても黒いです。",
+    "exampleSentenceEnglish": "Today is very 黒い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "54ac8ba9-244e-4f86-ab63-6df27e895968",
+    "japanese": "警官",
+    "english": "police officer",
+    "exampleSentenceJapanese": "警官を買いました。",
+    "exampleSentenceEnglish": "I bought a 警官.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "87d383f3-8d00-4c43-8cd9-fe48803491cd",
+    "japanese": "今朝",
+    "english": "this morning",
+    "exampleSentenceJapanese": "今朝を買いました。",
+    "exampleSentenceEnglish": "I bought a 今朝.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "fbc0f0f5-e1a8-4c9d-92f3-08c37c0ef8bd",
+    "japanese": "消す",
+    "english": "to erase, to delete, to turn off power",
+    "exampleSentenceJapanese": "消すを買いました。",
+    "exampleSentenceEnglish": "I bought a 消す.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "05dead25-1b9e-42d5-afdc-5ec15c521bdc",
+    "japanese": "結構",
+    "english": "splendid; enough, tolerably",
+    "exampleSentenceJapanese": "結構を買いました。",
+    "exampleSentenceEnglish": "I bought a 結構.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "284378a8-3382-4aac-8a47-13ee27b578ed",
+    "japanese": "結婚 (する)",
+    "english": "marriage (get married)",
+    "exampleSentenceJapanese": "結婚 (する)を買いました。",
+    "exampleSentenceEnglish": "I bought a 結婚 (する).",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "4aa85d45-dcda-488a-b529-bd2475f51fca",
+    "japanese": "月曜日",
+    "english": "Monday",
+    "exampleSentenceJapanese": "月曜日を買いました。",
+    "exampleSentenceEnglish": "I bought a 月曜日.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "6137a3a3-f122-445d-8f4e-ebfa98cd7f3a",
+    "japanese": "玄関",
+    "english": "entrance (to a house or a building)",
+    "exampleSentenceJapanese": "玄関を買いました。",
+    "exampleSentenceEnglish": "I bought a 玄関.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "cfd02391-c91b-4c4c-a020-b6cbc51c6eb3",
+    "japanese": "元気",
+    "english": "health(y), energetic",
+    "exampleSentenceJapanese": "元気を買いました。",
+    "exampleSentenceEnglish": "I bought a 元気.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d767bb08-aa1e-4759-8270-9fc4f517e91f",
+    "japanese": "～個",
+    "english": "counter for small items (e.g., fruits, cups)",
+    "exampleSentenceJapanese": "～個を買いました。",
+    "exampleSentenceEnglish": "I bought a ～個.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "5dcdbf41-2797-4a0c-9730-6ecd2a8dad63",
+    "japanese": "五",
+    "english": "five",
+    "exampleSentenceJapanese": "五を買いました。",
+    "exampleSentenceEnglish": "I bought a 五.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "1a1e10ca-7f47-4fc5-9ca8-ca1e811fddad",
+    "japanese": "～語",
+    "english": "word, language",
+    "exampleSentenceJapanese": "～語を買いました。",
+    "exampleSentenceEnglish": "I bought a ～語.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "b4b4a375-00da-4261-9a0b-2eb73dfd01af",
+    "japanese": "公園",
+    "english": "a park",
+    "exampleSentenceJapanese": "公園を買いました。",
+    "exampleSentenceEnglish": "I bought a 公園.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "80b7ff69-e5ab-46f7-8aa4-ec9385bc270c",
+    "japanese": "交差点",
+    "english": "intersection",
+    "exampleSentenceJapanese": "交差点を買いました。",
+    "exampleSentenceEnglish": "I bought a 交差点.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f4aec066-ffb4-4dee-a313-e5856809cd73",
+    "japanese": "紅茶",
+    "english": "black tea",
+    "exampleSentenceJapanese": "紅茶を買いました。",
+    "exampleSentenceEnglish": "I bought a 紅茶.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "8a6e874f-4fe6-4e84-af84-22762c104902",
+    "japanese": "交番",
+    "english": "police box",
+    "exampleSentenceJapanese": "交番を買いました。",
+    "exampleSentenceEnglish": "I bought a 交番.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "a7251087-b74a-478c-bd14-b5797b7eb8df",
+    "japanese": "声",
+    "english": "voice",
+    "exampleSentenceJapanese": "声を買いました。",
+    "exampleSentenceEnglish": "I bought a 声.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "1d1f23d4-30b7-4d90-bd2b-593306379a98",
+    "japanese": "コート",
+    "english": "coat; court (e.g., tennis)",
+    "exampleSentenceJapanese": "コートを買いました。",
+    "exampleSentenceEnglish": "I bought a コート.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "9329b7b5-ab7c-477c-9396-4e82df94b898",
+    "japanese": "コーヒー",
+    "english": "coffee",
+    "exampleSentenceJapanese": "コーヒーを買いました。",
+    "exampleSentenceEnglish": "I bought a コーヒー.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "466d9558-a9f7-42e8-89d8-677bd32d7e69",
+    "japanese": "ここ",
+    "english": "here, this place",
+    "exampleSentenceJapanese": "ここを買いました。",
+    "exampleSentenceEnglish": "I bought a ここ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "6b82a02c-5364-4199-bb12-3b9d8f131861",
+    "japanese": "午後",
+    "english": "afternoon, P.M.",
+    "exampleSentenceJapanese": "午後を買いました。",
+    "exampleSentenceEnglish": "I bought a 午後.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "55a7eeef-d9ee-4aa9-8c27-06bd45c24d9d",
+    "japanese": "九日",
+    "english": "nine days; ninth day of the month",
+    "exampleSentenceJapanese": "九日を買いました。",
+    "exampleSentenceEnglish": "I bought a 九日.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "eccc271f-84fd-4011-89fa-72fe59755555",
+    "japanese": "九つ",
+    "english": "nine things",
+    "exampleSentenceJapanese": "九つを買いました。",
+    "exampleSentenceEnglish": "I bought a 九つ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "8057f528-d757-4434-a55f-d1397ce9dcc9",
+    "japanese": "午前",
+    "english": "morning, A.M.",
+    "exampleSentenceJapanese": "午前を買いました。",
+    "exampleSentenceEnglish": "I bought a 午前.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c6ea383f-3208-43f9-a7af-c3ee42fb2790",
+    "japanese": "答える",
+    "english": "to answer, to reply",
+    "exampleSentenceJapanese": "毎朝答えるようにしています。",
+    "exampleSentenceEnglish": "I try to 答える every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d0a0c4eb-583c-458b-9d48-78d14765302f",
+    "japanese": "こちら",
+    "english": "this person (polite); this way (polite)",
+    "exampleSentenceJapanese": "こちらを買いました。",
+    "exampleSentenceEnglish": "I bought a こちら.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "2f733fdc-6cf4-49c9-ac5e-668f7654bd84",
+    "japanese": "こっち",
+    "english": "this person; this direction; this side",
+    "exampleSentenceJapanese": "こっちを買いました。",
+    "exampleSentenceEnglish": "I bought a こっち.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e212eb65-cff0-4549-be70-e37e25360e7e",
+    "japanese": "コップ",
+    "english": "a tumbler; a glass",
+    "exampleSentenceJapanese": "コップを買いました。",
+    "exampleSentenceEnglish": "I bought a コップ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "b939c18f-951b-438f-81c5-c71bc3465579",
+    "japanese": "今年",
+    "english": "this year",
+    "exampleSentenceJapanese": "今年を買いました。",
+    "exampleSentenceEnglish": "I bought a 今年.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e8cc1d2c-409f-4339-a94a-991f26a0caed",
+    "japanese": "言葉",
+    "english": "language; word(s); expression(s)",
+    "exampleSentenceJapanese": "言葉を買いました。",
+    "exampleSentenceEnglish": "I bought a 言葉.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c98a20c3-6c65-4d70-b1b7-7c85620d976e",
+    "japanese": "子供",
+    "english": "child(ren)",
+    "exampleSentenceJapanese": "子供を買いました。",
+    "exampleSentenceEnglish": "I bought a 子供.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "2192f43d-6e7e-4c55-a7ad-5e1c0cf12578",
+    "japanese": "この",
+    "english": "this",
+    "exampleSentenceJapanese": "このを買いました。",
+    "exampleSentenceEnglish": "I bought a この.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "6dfe0700-e059-47db-8a19-df362f1f9be7",
+    "japanese": "御飯",
+    "english": "rice (cooked); meal",
+    "exampleSentenceJapanese": "御飯を買いました。",
+    "exampleSentenceEnglish": "I bought a 御飯.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "5e72cd3b-2a55-4222-a834-8c75abef1ab8",
+    "japanese": "コピーする",
+    "english": "to copy",
+    "exampleSentenceJapanese": "毎朝コピーするようにしています。",
+    "exampleSentenceEnglish": "I try to コピーする every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "660e2a54-b7c4-43ba-b6ec-1ed77bac89f1",
+    "japanese": "困る",
+    "english": "to be bothered, to have difficulty",
+    "exampleSentenceJapanese": "毎朝困るようにしています。",
+    "exampleSentenceEnglish": "I try to 困る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "a2fd15b9-d067-429c-83d8-9aeaa212e3dc",
+    "japanese": "これ",
+    "english": "this one",
+    "exampleSentenceJapanese": "これを買いました。",
+    "exampleSentenceEnglish": "I bought a これ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "27ddb77c-5702-4d39-9c87-631ed7bc587d",
+    "japanese": "～ころ; ～ごろ",
+    "english": "about, toward, approximately (time)",
+    "exampleSentenceJapanese": "～ころ; ～ごろを買いました。",
+    "exampleSentenceEnglish": "I bought a ～ころ; ～ごろ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "55d96667-9d67-425b-9793-387a5ba9c3db",
+    "japanese": "今月",
+    "english": "this month",
+    "exampleSentenceJapanese": "今月を買いました。",
+    "exampleSentenceEnglish": "I bought a 今月.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "4f0b4d7d-a34b-44ef-ab12-0093e41ed865",
+    "japanese": "今週",
+    "english": "this week",
+    "exampleSentenceJapanese": "今週を買いました。",
+    "exampleSentenceEnglish": "I bought a 今週.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c8b88765-f95c-47ba-8e0a-5d4ae5a195c4",
+    "japanese": "こんな",
+    "english": "such, like this",
+    "exampleSentenceJapanese": "こんなな部屋に住んでいます。",
+    "exampleSentenceEnglish": "I live in a こんな room.",
+    "partOfSpeech": "な形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d4f5c792-12d6-440a-9113-4b5418900ef9",
+    "japanese": "今晩",
+    "english": "tonight, this evening",
+    "exampleSentenceJapanese": "今晩を買いました。",
+    "exampleSentenceEnglish": "I bought a 今晩.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "57110729-e6a1-46cf-992b-ed76c2115448",
+    "japanese": "さあ",
+    "english": "come now, well",
+    "exampleSentenceJapanese": "さあを買いました。",
+    "exampleSentenceEnglish": "I bought a さあ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "48ea0a8f-774a-4a29-b520-4b089b354bb1",
+    "japanese": "～歳",
+    "english": "~ years old",
+    "exampleSentenceJapanese": "～歳を買いました。",
+    "exampleSentenceEnglish": "I bought a ～歳.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e9445233-ce9d-4f37-b994-deb79be8f24d",
+    "japanese": "財布",
+    "english": "wallet",
+    "exampleSentenceJapanese": "財布を買いました。",
+    "exampleSentenceEnglish": "I bought a 財布.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "12b6b664-1487-4334-ad20-9cb662ea6518",
+    "japanese": "魚",
+    "english": "fish",
+    "exampleSentenceJapanese": "魚を買いました。",
+    "exampleSentenceEnglish": "I bought a 魚.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "56f60276-745c-4c3b-b169-e0cd42759abf",
+    "japanese": "先",
+    "english": "future; recent, previous",
+    "exampleSentenceJapanese": "先を買いました。",
+    "exampleSentenceEnglish": "I bought a 先.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "3f16c0e6-95e3-40dd-bb3e-a62ca9a385a6",
+    "japanese": "咲く",
+    "english": "to bloom",
+    "exampleSentenceJapanese": "咲くを買いました。",
+    "exampleSentenceEnglish": "I bought a 咲く.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f254b60f-23aa-4417-af53-0de138649724",
+    "japanese": "作文",
+    "english": "essay; composition",
+    "exampleSentenceJapanese": "作文を買いました。",
+    "exampleSentenceEnglish": "I bought a 作文.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "39d26ca1-266c-4558-9f07-65869f1ab291",
+    "japanese": "差す",
+    "english": "to raise (stretch out) hands, to raise (e.g., umbrella)",
+    "exampleSentenceJapanese": "差すを買いました。",
+    "exampleSentenceEnglish": "I bought a 差す.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "86001e23-498a-4780-a478-cf9198cb49b0",
+    "japanese": "～冊",
+    "english": "counter for books",
+    "exampleSentenceJapanese": "～冊を買いました。",
+    "exampleSentenceEnglish": "I bought a ～冊.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c48bf6d4-9ae7-4d97-b51b-4aeb854d0975",
+    "japanese": "雑誌",
+    "english": "magazine, journal",
+    "exampleSentenceJapanese": "雑誌を買いました。",
+    "exampleSentenceEnglish": "I bought a 雑誌.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "dcf7ed06-8ed0-48c8-9385-e9414765ae5b",
+    "japanese": "砂糖",
+    "english": "sugar",
+    "exampleSentenceJapanese": "砂糖を買いました。",
+    "exampleSentenceEnglish": "I bought a 砂糖.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "833cba48-1b80-4f6c-93b4-69972699d914",
+    "japanese": "寒い",
+    "english": "cold (in reference to weather)",
+    "exampleSentenceJapanese": "今日はとても寒いです。",
+    "exampleSentenceEnglish": "Today is very 寒い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "59795d3f-4600-4302-bf4b-ecdef69825ca",
+    "japanese": "さ来年",
+    "english": "year after next",
+    "exampleSentenceJapanese": "さ来年を買いました。",
+    "exampleSentenceEnglish": "I bought a さ来年.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "6f5cbefd-1e38-4847-92e2-db0c601e0fe4",
+    "japanese": "～さん",
+    "english": "Mr. ~, Ms. ~",
+    "exampleSentenceJapanese": "～さんを買いました。",
+    "exampleSentenceEnglish": "I bought a ～さん.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "9b7fedbb-9e76-4e9b-9e3e-db148b0c5bbd",
+    "japanese": "三",
+    "english": "three",
+    "exampleSentenceJapanese": "三を買いました。",
+    "exampleSentenceEnglish": "I bought a 三.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "7eea2374-c024-4e75-b459-7680fd70d308",
+    "japanese": "散歩 (する)",
+    "english": "walk, stroll",
+    "exampleSentenceJapanese": "散歩 (する)を買いました。",
+    "exampleSentenceEnglish": "I bought a 散歩 (する).",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "8b9337d5-d79a-47aa-b6db-7a2759cd6f5d",
+    "japanese": "四",
+    "english": "four",
+    "exampleSentenceJapanese": "四を買いました。",
+    "exampleSentenceEnglish": "I bought a 四.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "73eeeb10-850e-4daa-b8bb-a39b535c8ff6",
+    "japanese": "～時",
+    "english": "~ o'clock (time)",
+    "exampleSentenceJapanese": "～時を買いました。",
+    "exampleSentenceEnglish": "I bought a ～時.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d297eb43-0821-41fa-9fa8-e28e4b141720",
+    "japanese": "塩",
+    "english": "salt",
+    "exampleSentenceJapanese": "塩を買いました。",
+    "exampleSentenceEnglish": "I bought a 塩.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "1fcfff22-e701-4372-b4b9-c3523044b241",
+    "japanese": "しかし",
+    "english": "however; but",
+    "exampleSentenceJapanese": "しかしを買いました。",
+    "exampleSentenceEnglish": "I bought a しかし.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "2932e6d3-c279-4c98-950b-95a5f2273a2e",
+    "japanese": "時間",
+    "english": "time",
+    "exampleSentenceJapanese": "時間を買いました。",
+    "exampleSentenceEnglish": "I bought a 時間.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e5e0fd77-3c41-4108-ad6b-5cb9646307c5",
+    "japanese": "～時間",
+    "english": "~ hours",
+    "exampleSentenceJapanese": "～時間を買いました。",
+    "exampleSentenceEnglish": "I bought a ～時間.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "62ac0bb4-466e-44e3-b00e-d6b44a79ef93",
+    "japanese": "仕事",
+    "english": "work, job, occupation, employment",
+    "exampleSentenceJapanese": "仕事を買いました。",
+    "exampleSentenceEnglish": "I bought a 仕事.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "ce207b37-55d0-415c-8ee7-2b1bd29798df",
+    "japanese": "辞書",
+    "english": "dictionary",
+    "exampleSentenceJapanese": "辞書を買いました。",
+    "exampleSentenceEnglish": "I bought a 辞書.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "ce302521-c972-4756-b391-def00e36b321",
+    "japanese": "静か",
+    "english": "quiet, calm",
+    "exampleSentenceJapanese": "静かな部屋に住んでいます。",
+    "exampleSentenceEnglish": "I live in a 静か room.",
+    "partOfSpeech": "な形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "b925f5f4-4f81-48f5-9499-9dc6d9414932",
+    "japanese": "下",
+    "english": "under, below, beneath",
+    "exampleSentenceJapanese": "下を買いました。",
+    "exampleSentenceEnglish": "I bought a 下.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "eda1139a-f0cd-4568-b3ad-cd47b75f77cb",
+    "japanese": "七",
+    "english": "seven",
+    "exampleSentenceJapanese": "七を買いました。",
+    "exampleSentenceEnglish": "I bought a 七.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f76f3a29-0456-45b0-9aa3-387e53aea897",
+    "japanese": "質問",
+    "english": "question, inquiry",
+    "exampleSentenceJapanese": "質問を買いました。",
+    "exampleSentenceEnglish": "I bought a 質問.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "8ad5795a-2303-4387-b3f5-7b074e806f14",
+    "japanese": "自転車",
+    "english": "bicycle",
+    "exampleSentenceJapanese": "自転車を買いました。",
+    "exampleSentenceEnglish": "I bought a 自転車.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "a44c3b5b-46e1-47e7-b6b4-2adb6806ddb0",
+    "japanese": "自動車",
+    "english": "automobile",
+    "exampleSentenceJapanese": "自動車を買いました。",
+    "exampleSentenceEnglish": "I bought a 自動車.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "8e660d88-bcfe-40f4-8007-1118d7be5d8d",
+    "japanese": "死ぬ",
+    "english": "to die",
+    "exampleSentenceJapanese": "死ぬを買いました。",
+    "exampleSentenceEnglish": "I bought a 死ぬ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "2b2e34c6-93bd-4adc-b2e7-736edda08378",
+    "japanese": "字引",
+    "english": "dictionary",
+    "exampleSentenceJapanese": "字引を買いました。",
+    "exampleSentenceEnglish": "I bought a 字引.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "5d1d6a75-bf99-4118-9c3f-86f8e52c6cae",
+    "japanese": "自分",
+    "english": "myself, oneself",
+    "exampleSentenceJapanese": "自分を買いました。",
+    "exampleSentenceEnglish": "I bought a 自分.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e94b4d96-5ccb-4082-a574-ea71280180fc",
+    "japanese": "閉まる",
+    "english": "to close, to be closed",
+    "exampleSentenceJapanese": "毎朝閉まるようにしています。",
+    "exampleSentenceEnglish": "I try to 閉まる every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "80f953ae-f00a-4d84-9430-99e5268cea91",
+    "japanese": "閉める",
+    "english": "to close, to shut",
+    "exampleSentenceJapanese": "毎朝閉めるようにしています。",
+    "exampleSentenceEnglish": "I try to 閉める every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "bc5222d0-67fa-4904-a01f-ecd6f91a4025",
+    "japanese": "締める",
+    "english": "to tie, to fasten, to tighten",
+    "exampleSentenceJapanese": "毎朝締めるようにしています。",
+    "exampleSentenceEnglish": "I try to 締める every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "5cf1cb1c-7867-489d-a0f9-18f5648046ff",
+    "japanese": "じゃ; じゃあ",
+    "english": "well, well then",
+    "exampleSentenceJapanese": "じゃ; じゃあを買いました。",
+    "exampleSentenceEnglish": "I bought a じゃ; じゃあ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "03a32c97-22c6-4594-8a74-2c7fd0dddcfd",
+    "japanese": "写真",
+    "english": "a picture; a photograph",
+    "exampleSentenceJapanese": "写真を買いました。",
+    "exampleSentenceEnglish": "I bought a 写真.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "7ab781f5-3641-4864-95dc-e579e7f78bdc",
+    "japanese": "シャツ",
+    "english": "shirt",
+    "exampleSentenceJapanese": "シャツを買いました。",
+    "exampleSentenceEnglish": "I bought a シャツ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "b8a1a9ff-fd64-451b-ad2c-34f33d3940fe",
+    "japanese": "シャワー",
+    "english": "shower",
+    "exampleSentenceJapanese": "シャワーを買いました。",
+    "exampleSentenceEnglish": "I bought a シャワー.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "1472a634-badd-4436-8f0e-94a7c450ea19",
+    "japanese": "十",
+    "english": "ten",
+    "exampleSentenceJapanese": "十を買いました。",
+    "exampleSentenceEnglish": "I bought a 十.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "afd13a93-d4b8-48ba-8466-66c2c4b57bb6",
+    "japanese": "～中",
+    "english": "during, while",
+    "exampleSentenceJapanese": "～中を買いました。",
+    "exampleSentenceEnglish": "I bought a ～中.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "16105e86-29c6-4cd1-8cc2-01e2dcb61d78",
+    "japanese": "～週間",
+    "english": "~ weeks",
+    "exampleSentenceJapanese": "～週間を買いました。",
+    "exampleSentenceEnglish": "I bought a ～週間.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "223ec17f-0e3d-49dc-a21c-eea1c7a6f3bd",
+    "japanese": "授業",
+    "english": "a class (of school)",
+    "exampleSentenceJapanese": "授業を買いました。",
+    "exampleSentenceEnglish": "I bought a 授業.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "33016275-08bf-498f-95de-1efcc208b875",
+    "japanese": "宿題",
+    "english": "homework",
+    "exampleSentenceJapanese": "宿題を買いました。",
+    "exampleSentenceEnglish": "I bought a 宿題.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "81a7167d-080a-4a14-b437-a5ac4c87a9ae",
+    "japanese": "上手",
+    "english": "be good at, skillful",
+    "exampleSentenceJapanese": "上手を買いました。",
+    "exampleSentenceEnglish": "I bought a 上手.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c0747271-e9ce-4f02-bfb5-cc9c6d6418bf",
+    "japanese": "丈夫",
+    "english": "strong, solid, durable",
+    "exampleSentenceJapanese": "丈夫を買いました。",
+    "exampleSentenceEnglish": "I bought a 丈夫.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "75631edc-37c6-40ee-b3eb-748e10eb882f",
+    "japanese": "醤油",
+    "english": "soy sauce",
+    "exampleSentenceJapanese": "醤油を買いました。",
+    "exampleSentenceEnglish": "I bought a 醤油.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "5dc3e929-66af-4083-8812-80aeac9a9296",
+    "japanese": "食堂",
+    "english": "cafeteria, dining hall",
+    "exampleSentenceJapanese": "食堂を買いました。",
+    "exampleSentenceEnglish": "I bought a 食堂.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "da3de158-0c02-4b32-8b14-d9ba31f8a147",
+    "japanese": "知る",
+    "english": "to know, to understand",
+    "exampleSentenceJapanese": "毎朝知るようにしています。",
+    "exampleSentenceEnglish": "I try to 知る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "9adcda94-35bb-44f7-b848-3bc2bf24befe",
+    "japanese": "白",
+    "english": "white",
+    "exampleSentenceJapanese": "白を買いました。",
+    "exampleSentenceEnglish": "I bought a 白.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "bc44286f-cff8-41ec-abc2-08c506c2965e",
+    "japanese": "白い",
+    "english": "white",
+    "exampleSentenceJapanese": "今日はとても白いです。",
+    "exampleSentenceEnglish": "Today is very 白い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "2e17ea1a-1302-4090-b457-183c8980af9d",
+    "japanese": "～人",
+    "english": "counter for people",
+    "exampleSentenceJapanese": "～人を買いました。",
+    "exampleSentenceEnglish": "I bought a ～人.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "21fd4fe5-c144-4879-af6b-603a2a80316c",
+    "japanese": "新聞",
+    "english": "newspaper",
+    "exampleSentenceJapanese": "新聞を買いました。",
+    "exampleSentenceEnglish": "I bought a 新聞.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "8dd725fe-cedc-4f79-abbc-47475d6df46b",
+    "japanese": "水曜日",
+    "english": "Wednesday",
+    "exampleSentenceJapanese": "水曜日を買いました。",
+    "exampleSentenceEnglish": "I bought a 水曜日.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d6aa6156-24f5-49d3-b780-87b1794f0146",
+    "japanese": "吸う",
+    "english": "to breathe in, to suck",
+    "exampleSentenceJapanese": "吸うを買いました。",
+    "exampleSentenceEnglish": "I bought a 吸う.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c82c3e16-00c9-4608-bd4f-a337ef8960a3",
+    "japanese": "スカート",
+    "english": "skirt",
+    "exampleSentenceJapanese": "スカートを買いました。",
+    "exampleSentenceEnglish": "I bought a スカート.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "b4398118-c6b1-4df6-b116-3ac143110b28",
+    "japanese": "好き",
+    "english": "liking, fondness, love",
+    "exampleSentenceJapanese": "好きを買いました。",
+    "exampleSentenceEnglish": "I bought a 好き.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "8bd5e482-795c-4444-9992-92b04c6e6b0b",
+    "japanese": "～すぎ",
+    "english": "past; to exceed, ~ too much",
+    "exampleSentenceJapanese": "～すぎを買いました。",
+    "exampleSentenceEnglish": "I bought a ～すぎ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "703103c1-a8f4-4976-bf6c-bfa092610361",
+    "japanese": "少ない",
+    "english": "a little; a few",
+    "exampleSentenceJapanese": "今日はとても少ないです。",
+    "exampleSentenceEnglish": "Today is very 少ない.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "39c84381-1560-47c6-9ad6-ebe1688e2309",
+    "japanese": "すぐに",
+    "english": "immediately, soon",
+    "exampleSentenceJapanese": "すぐにを買いました。",
+    "exampleSentenceEnglish": "I bought a すぐに.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "1f08aede-7cd6-4de3-8567-a7ae2037b890",
+    "japanese": "少し",
+    "english": "little, few",
+    "exampleSentenceJapanese": "少しを買いました。",
+    "exampleSentenceEnglish": "I bought a 少し.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d8ad7086-746a-4870-9514-9d3eab3f18b5",
+    "japanese": "涼しい",
+    "english": "cool, refreshing (in reference to weather)",
+    "exampleSentenceJapanese": "今日はとても涼しいです。",
+    "exampleSentenceEnglish": "Today is very 涼しい.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f8c4220f-5cf1-47d7-9bc0-37fca093126a",
+    "japanese": "～ずつ",
+    "english": "at a time",
+    "exampleSentenceJapanese": "～ずつを買いました。",
+    "exampleSentenceEnglish": "I bought a ～ずつ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "ed29d4f5-ffc8-44da-a051-51ef56d92f8b",
+    "japanese": "ストーブ",
+    "english": "heater (lit: stove)",
+    "exampleSentenceJapanese": "ストーブを買いました。",
+    "exampleSentenceEnglish": "I bought a ストーブ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "8b8bb940-52d8-4300-9059-1ead595abb78",
+    "japanese": "スプーン",
+    "english": "spoon",
+    "exampleSentenceJapanese": "スプーンを買いました。",
+    "exampleSentenceEnglish": "I bought a スプーン.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "0247a724-75e1-4b87-90db-43c8dc24027a",
+    "japanese": "スポーツ",
+    "english": "sport(s)",
+    "exampleSentenceJapanese": "スポーツを買いました。",
+    "exampleSentenceEnglish": "I bought a スポーツ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "ef5984d2-6cca-42b0-8c56-26a5485dfa0d",
+    "japanese": "ズボン",
+    "english": "trousers",
+    "exampleSentenceJapanese": "ズボンを買いました。",
+    "exampleSentenceEnglish": "I bought a ズボン.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c6236363-7936-44c6-930e-ea2490e079ee",
+    "japanese": "住む",
+    "english": "to reside, to live in",
+    "exampleSentenceJapanese": "住むを買いました。",
+    "exampleSentenceEnglish": "I bought a 住む.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "383ad247-1e91-4330-b48d-3723a3708fb6",
+    "japanese": "する",
+    "english": "to do, to try; to wear small items (e.g., necktie, watch, etc.)",
+    "exampleSentenceJapanese": "毎朝するようにしています。",
+    "exampleSentenceEnglish": "I try to する every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e0db68ad-0c81-4b40-9fef-2e5c95a5b4e2",
+    "japanese": "座る",
+    "english": "to sit",
+    "exampleSentenceJapanese": "毎朝座るようにしています。",
+    "exampleSentenceEnglish": "I try to 座る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "a1ed8d06-c2e4-4ced-a077-2a0b7cd5b79c",
+    "japanese": "背",
+    "english": "(one's) height, stature",
+    "exampleSentenceJapanese": "背を買いました。",
+    "exampleSentenceEnglish": "I bought a 背.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "a18b8747-4e4f-4fcb-b0ea-22f118c38474",
+    "japanese": "生徒",
+    "english": "student; pupil",
+    "exampleSentenceJapanese": "生徒を買いました。",
+    "exampleSentenceEnglish": "I bought a 生徒.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "4842551e-1699-4d45-ac97-42cef6c5dfe3",
+    "japanese": "セーター",
+    "english": "sweater",
+    "exampleSentenceJapanese": "セーターを買いました。",
+    "exampleSentenceEnglish": "I bought a セーター.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "66aff2c1-2359-4b0c-948e-93b5c9dcf0b1",
+    "japanese": "石鹸",
+    "english": "soap",
+    "exampleSentenceJapanese": "石鹸を買いました。",
+    "exampleSentenceEnglish": "I bought a 石鹸.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e1e252da-5b85-4d33-a86c-b10e6ca9be2f",
+    "japanese": "背広",
+    "english": "men's suit",
+    "exampleSentenceJapanese": "背広を買いました。",
+    "exampleSentenceEnglish": "I bought a 背広.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "33a4acf3-4174-4a3c-b903-d949c31f6d96",
+    "japanese": "狭い",
+    "english": "narrow; not spacious",
+    "exampleSentenceJapanese": "今日はとても狭いです。",
+    "exampleSentenceEnglish": "Today is very 狭い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "29b559f4-85e0-49ac-8f6e-ae6079babee5",
+    "japanese": "ゼロ",
+    "english": "zero",
+    "exampleSentenceJapanese": "ゼロを買いました。",
+    "exampleSentenceEnglish": "I bought a ゼロ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "75a099d9-570a-43c1-ab10-5fde59d071fc",
+    "japanese": "千",
+    "english": "thousand",
+    "exampleSentenceJapanese": "千を買いました。",
+    "exampleSentenceEnglish": "I bought a 千.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "16a527ee-1c59-4f3a-b844-9dacbdb72cde",
+    "japanese": "先月",
+    "english": "last month",
+    "exampleSentenceJapanese": "先月を買いました。",
+    "exampleSentenceEnglish": "I bought a 先月.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "96f97be0-fa7e-48db-83c4-7da9e07ea5fa",
+    "japanese": "先週",
+    "english": "last week",
+    "exampleSentenceJapanese": "先週を買いました。",
+    "exampleSentenceEnglish": "I bought a 先週.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "2bff5a7b-f725-4364-a3d7-546253520c07",
+    "japanese": "先生",
+    "english": "teacher, professor; master; doctor",
+    "exampleSentenceJapanese": "先生を買いました。",
+    "exampleSentenceEnglish": "I bought a 先生.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "111b6afe-9d3b-4a84-9bec-281b3af910e4",
+    "japanese": "洗濯",
+    "english": "washing, laundry",
+    "exampleSentenceJapanese": "洗濯を買いました。",
+    "exampleSentenceEnglish": "I bought a 洗濯.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "60250f12-c148-419a-b43f-289791176307",
+    "japanese": "全部",
+    "english": "all, entire, whole",
+    "exampleSentenceJapanese": "全部を買いました。",
+    "exampleSentenceEnglish": "I bought a 全部.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "2883138b-a098-40c5-8ec0-3e616af55b4f",
+    "japanese": "そう; そうです",
+    "english": "yes; appears, to be the case",
+    "exampleSentenceJapanese": "そう; そうですを買いました。",
+    "exampleSentenceEnglish": "I bought a そう; そうです.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "9aec97e8-471f-4523-92b0-514e2793798a",
+    "japanese": "掃除 (する)",
+    "english": "cleaning, sweeping",
+    "exampleSentenceJapanese": "掃除 (する)を買いました。",
+    "exampleSentenceEnglish": "I bought a 掃除 (する).",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "da94b554-b92f-49ae-a583-e131d0b2d782",
+    "japanese": "そうして; そして",
+    "english": "and, like that",
+    "exampleSentenceJapanese": "そうして; そしてを買いました。",
+    "exampleSentenceEnglish": "I bought a そうして; そして.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c101797b-9000-4fbd-9d35-6af82d5f2785",
+    "japanese": "そこ",
+    "english": "that place, there; bottom, sole",
+    "exampleSentenceJapanese": "そこを買いました。",
+    "exampleSentenceEnglish": "I bought a そこ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "55cb147c-ea43-4df8-9b25-154a053c2881",
+    "japanese": "そちら",
+    "english": "over there",
+    "exampleSentenceJapanese": "そちらを買いました。",
+    "exampleSentenceEnglish": "I bought a そちら.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "9bf4dbae-a5e6-4900-9143-35efbae8a751",
+    "japanese": "そっち",
+    "english": "over there",
+    "exampleSentenceJapanese": "そっちを買いました。",
+    "exampleSentenceEnglish": "I bought a そっち.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "dcac6bf1-a408-41f2-85fe-8c892c449894",
+    "japanese": "外",
+    "english": "outside, exterior",
+    "exampleSentenceJapanese": "外を買いました。",
+    "exampleSentenceEnglish": "I bought a 外.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "ade34316-6487-41e2-ae2d-287fe069dcf6",
+    "japanese": "その",
+    "english": "that",
+    "exampleSentenceJapanese": "そのを買いました。",
+    "exampleSentenceEnglish": "I bought a その.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "cc057a46-13e6-455c-9d24-7c946840dad7",
+    "japanese": "そば",
+    "english": "near, close, beside; Japanese traditional buckwheat noodle",
+    "exampleSentenceJapanese": "そばを買いました。",
+    "exampleSentenceEnglish": "I bought a そば.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "bebdde1c-c92a-4705-b207-b8a317e0b337",
+    "japanese": "空",
+    "english": "sky",
+    "exampleSentenceJapanese": "空を買いました。",
+    "exampleSentenceEnglish": "I bought a 空.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "35aadc5d-2694-4ec6-9443-fa0bbc1c5c9d",
+    "japanese": "それ",
+    "english": "that one",
+    "exampleSentenceJapanese": "それを買いました。",
+    "exampleSentenceEnglish": "I bought a それ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "0a57fe38-2627-4000-a2b9-be8da36a11b3",
+    "japanese": "それから",
+    "english": "and then, after that",
+    "exampleSentenceJapanese": "それからを買いました。",
+    "exampleSentenceEnglish": "I bought a それから.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "02f04964-5c46-4538-8560-e001b6ef4efa",
+    "japanese": "それでは",
+    "english": "in that situation, well then...",
+    "exampleSentenceJapanese": "それではを買いました。",
+    "exampleSentenceEnglish": "I bought a それでは.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "3a2791c2-217c-4bbd-87b0-531ed3957e2a",
+    "japanese": "～台",
+    "english": "counter for vehicles; machines",
+    "exampleSentenceJapanese": "～台を買いました。",
+    "exampleSentenceEnglish": "I bought a ～台.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "8d23398c-86c9-4ae0-93e0-020cade20451",
+    "japanese": "大学",
+    "english": "college; university",
+    "exampleSentenceJapanese": "大学を買いました。",
+    "exampleSentenceEnglish": "I bought a 大学.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "0d3ac534-ce26-4aac-b633-b2023eafb867",
+    "japanese": "大使館",
+    "english": "embassy",
+    "exampleSentenceJapanese": "大使館を買いました。",
+    "exampleSentenceEnglish": "I bought a 大使館.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "74bc135c-94ce-4002-bd34-60bbc8e94f07",
+    "japanese": "大丈夫",
+    "english": "It's ok (all right); No need to worry; Everything is under control",
+    "exampleSentenceJapanese": "大丈夫を買いました。",
+    "exampleSentenceEnglish": "I bought a 大丈夫.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "7843c450-d803-4bf7-a1f2-24d25c65946f",
+    "japanese": "大好き",
+    "english": "very like-able, like very much",
+    "exampleSentenceJapanese": "大好きを買いました。",
+    "exampleSentenceEnglish": "I bought a 大好き.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f59bab46-bd6c-4bf6-ac64-9744f104ea34",
+    "japanese": "大切",
+    "english": "important",
+    "exampleSentenceJapanese": "大切を買いました。",
+    "exampleSentenceEnglish": "I bought a 大切.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "095aea4b-7ab4-418f-aed3-963398eca6a2",
+    "japanese": "台所",
+    "english": "kitchen",
+    "exampleSentenceJapanese": "台所を買いました。",
+    "exampleSentenceEnglish": "I bought a 台所.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "173bfe02-f38c-482e-87f7-bdbcade2719f",
+    "japanese": "大変",
+    "english": "very; difficult, hard",
+    "exampleSentenceJapanese": "大変を買いました。",
+    "exampleSentenceEnglish": "I bought a 大変.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "8812c0ae-a6ef-4711-92e0-faee1c81ae7a",
+    "japanese": "高い",
+    "english": "tall, high; expensive",
+    "exampleSentenceJapanese": "今日はとても高いです。",
+    "exampleSentenceEnglish": "Today is very 高い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "4f3d6219-dc31-44bc-a4e7-ae9b245616ca",
+    "japanese": "～だけ",
+    "english": "only ~, just ~, as ~",
+    "exampleSentenceJapanese": "～だけを買いました。",
+    "exampleSentenceEnglish": "I bought a ～だけ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "480aea5e-3f4e-49d5-9aec-48551682adc2",
+    "japanese": "沢山",
+    "english": "many, much",
+    "exampleSentenceJapanese": "沢山を買いました。",
+    "exampleSentenceEnglish": "I bought a 沢山.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c56fc203-40b2-4966-bf5e-67ed6080ae1a",
+    "japanese": "タクシー",
+    "english": "taxi",
+    "exampleSentenceJapanese": "タクシーを買いました。",
+    "exampleSentenceEnglish": "I bought a タクシー.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "fae3eff0-c2f0-4060-b641-29cc029eda1c",
+    "japanese": "出す",
+    "english": "to take (something) out; to hand in (something)",
+    "exampleSentenceJapanese": "出すを買いました。",
+    "exampleSentenceEnglish": "I bought a 出す.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "8519e351-02d7-4dd8-8591-a6efecc018ba",
+    "japanese": "～たち",
+    "english": "plural suffix",
+    "exampleSentenceJapanese": "～たちを買いました。",
+    "exampleSentenceEnglish": "I bought a ～たち.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "7c368b33-eeaf-4a90-ba1a-c566028dc275",
+    "japanese": "立つ",
+    "english": "to stand up",
+    "exampleSentenceJapanese": "立つを買いました。",
+    "exampleSentenceEnglish": "I bought a 立つ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "3d6b25c9-168c-4784-88aa-e339859d1b41",
+    "japanese": "たて",
+    "english": "length, height",
+    "exampleSentenceJapanese": "たてを買いました。",
+    "exampleSentenceEnglish": "I bought a たて.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d6e6e47c-d525-44f6-988f-58e1d4f0defe",
+    "japanese": "建物",
+    "english": "building",
+    "exampleSentenceJapanese": "建物を買いました。",
+    "exampleSentenceEnglish": "I bought a 建物.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "a9456b5d-51c0-4250-af3c-f04dc10d971b",
+    "japanese": "楽しい",
+    "english": "enjoyable, fun",
+    "exampleSentenceJapanese": "今日はとても楽しいです。",
+    "exampleSentenceEnglish": "Today is very 楽しい.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d2ccac0e-11e1-4b49-990e-eda4b1a28948",
+    "japanese": "頼む",
+    "english": "to request, to ask (a favor)",
+    "exampleSentenceJapanese": "頼むを買いました。",
+    "exampleSentenceEnglish": "I bought a 頼む.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "9b72c5de-3c38-4e71-a1b8-1977f2c8dc78",
+    "japanese": "たばこ",
+    "english": "tobacco, cigarettes",
+    "exampleSentenceJapanese": "たばこを買いました。",
+    "exampleSentenceEnglish": "I bought a たばこ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "4c633083-3b28-466e-b94b-cdcbde7f5d67",
+    "japanese": "多分",
+    "english": "perhaps, probably, maybe",
+    "exampleSentenceJapanese": "多分を買いました。",
+    "exampleSentenceEnglish": "I bought a 多分.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f62f691c-9113-4dbc-bbaa-e7b60c8332f4",
+    "japanese": "食べ物",
+    "english": "food",
+    "exampleSentenceJapanese": "食べ物を買いました。",
+    "exampleSentenceEnglish": "I bought a 食べ物.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "7e891d15-1280-414b-8765-3392d62afcf3",
+    "japanese": "食べる",
+    "english": "to eat",
+    "exampleSentenceJapanese": "毎朝食べるようにしています。",
+    "exampleSentenceEnglish": "I try to 食べる every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "74f33f3b-8b70-422a-9b08-0589391be75b",
+    "japanese": "卵",
+    "english": "egg",
+    "exampleSentenceJapanese": "卵を買いました。",
+    "exampleSentenceEnglish": "I bought a 卵.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "b4c0489d-e23c-4cf7-9888-0cf14328a960",
+    "japanese": "誰",
+    "english": "who",
+    "exampleSentenceJapanese": "誰を買いました。",
+    "exampleSentenceEnglish": "I bought a 誰.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "31e8a0f9-221d-49aa-8ced-89d4eda91ed4",
+    "japanese": "誰か",
+    "english": "someone",
+    "exampleSentenceJapanese": "誰かを買いました。",
+    "exampleSentenceEnglish": "I bought a 誰か.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f53f905f-c989-459e-b56c-a141d1f80307",
+    "japanese": "誕生日",
+    "english": "birthday",
+    "exampleSentenceJapanese": "誕生日を買いました。",
+    "exampleSentenceEnglish": "I bought a 誕生日.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "2a5e49fa-eaed-4c2f-ab39-4d8b2c711583",
+    "japanese": "段々",
+    "english": "gradually, by degrees",
+    "exampleSentenceJapanese": "段々を買いました。",
+    "exampleSentenceEnglish": "I bought a 段々.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "0c1fdbeb-860a-4ea4-8e0c-52fe20e9f9ae",
+    "japanese": "小さい",
+    "english": "small, little",
+    "exampleSentenceJapanese": "今日はとても小さいです。",
+    "exampleSentenceEnglish": "Today is very 小さい.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "bd845c6e-7892-40f7-b5a5-95ffd5c0ad01",
+    "japanese": "小さな",
+    "english": "small, little",
+    "exampleSentenceJapanese": "小さなな部屋に住んでいます。",
+    "exampleSentenceEnglish": "I live in a 小さな room.",
+    "partOfSpeech": "な形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c830d453-b7ea-4a40-ad0e-74395a780e24",
+    "japanese": "近い",
+    "english": "near, close by, short",
+    "exampleSentenceJapanese": "今日はとても近いです。",
+    "exampleSentenceEnglish": "Today is very 近い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d03628e3-9084-44f3-bc1b-b756e1a107c7",
+    "japanese": "違う",
+    "english": "to be different; to differ; wrong",
+    "exampleSentenceJapanese": "違うを買いました。",
+    "exampleSentenceEnglish": "I bought a 違う.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f1ad51db-aefe-4a02-a869-4505ecd16342",
+    "japanese": "近く",
+    "english": "nearby; in the neighborhood",
+    "exampleSentenceJapanese": "近くを買いました。",
+    "exampleSentenceEnglish": "I bought a 近く.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c827924d-ddc4-4791-b5e1-f5c15ad3a1fb",
+    "japanese": "地下鉄",
+    "english": "underground train, subway",
+    "exampleSentenceJapanese": "地下鉄を買いました。",
+    "exampleSentenceEnglish": "I bought a 地下鉄.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d739a639-f2b2-4720-9c6f-953b2dc5f250",
+    "japanese": "地図",
+    "english": "a map",
+    "exampleSentenceJapanese": "地図を買いました。",
+    "exampleSentenceEnglish": "I bought a 地図.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "a8ed353b-9558-497a-83e8-5a4ecf47af1e",
+    "japanese": "父",
+    "english": "(my) father",
+    "exampleSentenceJapanese": "父を買いました。",
+    "exampleSentenceEnglish": "I bought a 父.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "873c5c57-03a3-4f55-a63f-0594b566a2e3",
+    "japanese": "茶色",
+    "english": "brown",
+    "exampleSentenceJapanese": "茶色を買いました。",
+    "exampleSentenceEnglish": "I bought a 茶色.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "7b1820df-7ab0-4e4a-aab8-29c27ae3c4dd",
+    "japanese": "茶碗",
+    "english": "rice bowl",
+    "exampleSentenceJapanese": "茶碗を買いました。",
+    "exampleSentenceEnglish": "I bought a 茶碗.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e879ed22-80ab-4fe5-8c30-e7dfc5f2f274",
+    "japanese": "～中",
+    "english": "during, while ~ing",
+    "exampleSentenceJapanese": "～中を買いました。",
+    "exampleSentenceEnglish": "I bought a ～中.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f78f7934-5c3c-4654-b9aa-1ef59cfc0716",
+    "japanese": "丁度",
+    "english": "just, right, exactly",
+    "exampleSentenceJapanese": "丁度を買いました。",
+    "exampleSentenceEnglish": "I bought a 丁度.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "92e10f6c-8447-40e7-afee-9788bb44d075",
+    "japanese": "ちょっと",
+    "english": "a little, somewhat; just a little, somewhat",
+    "exampleSentenceJapanese": "ちょっとを買いました。",
+    "exampleSentenceEnglish": "I bought a ちょっと.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f235ed94-0a78-4d77-b41c-e0e50401e941",
+    "japanese": "一日",
+    "english": "one day; first day of the month",
+    "exampleSentenceJapanese": "一日を買いました。",
+    "exampleSentenceEnglish": "I bought a 一日.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "44252449-478f-46e1-809c-56658373d1ae",
+    "japanese": "使う",
+    "english": "to use",
+    "exampleSentenceJapanese": "使うを買いました。",
+    "exampleSentenceEnglish": "I bought a 使う.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "10546d08-5bb5-46f2-bd73-513f13f9dff9",
+    "japanese": "疲れる",
+    "english": "to get (become) tired; to become fatigued",
+    "exampleSentenceJapanese": "毎朝疲れるようにしています。",
+    "exampleSentenceEnglish": "I try to 疲れる every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "859bf8e1-04ec-4a4a-abc5-2d63a8e44420",
+    "japanese": "次",
+    "english": "next",
+    "exampleSentenceJapanese": "次を買いました。",
+    "exampleSentenceEnglish": "I bought a 次.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e69282aa-ad06-4bca-9dde-b549f76c6572",
+    "japanese": "着く",
+    "english": "to arrive at, to reach",
+    "exampleSentenceJapanese": "着くを買いました。",
+    "exampleSentenceEnglish": "I bought a 着く.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e0172f93-101b-4a8a-ad59-32c54864cc87",
+    "japanese": "机",
+    "english": "desk",
+    "exampleSentenceJapanese": "机を買いました。",
+    "exampleSentenceEnglish": "I bought a 机.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "41993d79-b915-42d9-b443-157b9a983eba",
+    "japanese": "作る",
+    "english": "to make, to create",
+    "exampleSentenceJapanese": "毎朝作るようにしています。",
+    "exampleSentenceEnglish": "I try to 作る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e1c0a76e-4899-4686-8d91-9b25d6de20b7",
+    "japanese": "つける",
+    "english": "to turn on (e.g., a light); to take",
+    "exampleSentenceJapanese": "毎朝つけるようにしています。",
+    "exampleSentenceEnglish": "I try to つける every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "81cfae7f-b522-4586-8a96-5706df4a600c",
+    "japanese": "勤める",
+    "english": "to work (for)",
+    "exampleSentenceJapanese": "毎朝勤めるようにしています。",
+    "exampleSentenceEnglish": "I try to 勤める every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "417b1fbc-1710-4f93-93f0-5a4309f1c4e2",
+    "japanese": "つまらない",
+    "english": "boring, dull; insignificant",
+    "exampleSentenceJapanese": "今日はとてもつまらないです。",
+    "exampleSentenceEnglish": "Today is very つまらない.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "5b7228fb-f7b2-46bf-9e94-bb05021d01b5",
+    "japanese": "冷たい",
+    "english": "cold (things, people)",
+    "exampleSentenceJapanese": "今日はとても冷たいです。",
+    "exampleSentenceEnglish": "Today is very 冷たい.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "5e3ceec3-68c6-4e30-b065-4475be5043c1",
+    "japanese": "強い",
+    "english": "strong, powerful",
+    "exampleSentenceJapanese": "今日はとても強いです。",
+    "exampleSentenceEnglish": "Today is very 強い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "1869edd5-68c6-4da8-bfad-447fab3d8707",
+    "japanese": "手",
+    "english": "hand",
+    "exampleSentenceJapanese": "手を買いました。",
+    "exampleSentenceEnglish": "I bought a 手.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "8211a788-fe80-4c08-a957-0f6a29849c10",
+    "japanese": "テープ",
+    "english": "tape",
+    "exampleSentenceJapanese": "テープを買いました。",
+    "exampleSentenceEnglish": "I bought a テープ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "9749b6b3-f4d7-4021-b976-6dd4d161d982",
+    "japanese": "テープレコーダー",
+    "english": "tape recorder",
+    "exampleSentenceJapanese": "テープレコーダーを買いました。",
+    "exampleSentenceEnglish": "I bought a テープレコーダー.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "8aa00bf8-17f7-4818-85bc-93afa5dbde5a",
+    "japanese": "テーブル",
+    "english": "table",
+    "exampleSentenceJapanese": "テーブルを買いました。",
+    "exampleSentenceEnglish": "I bought a テーブル.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "5dba2baf-d636-4fc4-9f6e-dcb52c6a63e8",
+    "japanese": "出かける",
+    "english": "to go out; to depart",
+    "exampleSentenceJapanese": "毎朝出かけるようにしています。",
+    "exampleSentenceEnglish": "I try to 出かける every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "00f790c0-18ef-4b72-9ed1-8924594e3a88",
+    "japanese": "手紙",
+    "english": "letter",
+    "exampleSentenceJapanese": "手紙を買いました。",
+    "exampleSentenceEnglish": "I bought a 手紙.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "79c36a12-8ac9-4139-a5ac-b8e5fd7a9dda",
+    "japanese": "できる",
+    "english": "to be able to (to accomplish)",
+    "exampleSentenceJapanese": "毎朝できるようにしています。",
+    "exampleSentenceEnglish": "I try to できる every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "51c19438-2031-43de-b06a-ddcd5611854f",
+    "japanese": "出口",
+    "english": "an exit",
+    "exampleSentenceJapanese": "出口を買いました。",
+    "exampleSentenceEnglish": "I bought a 出口.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "47daa13f-1170-4654-9b84-2ffe3045b57f",
+    "japanese": "テスト",
+    "english": "test",
+    "exampleSentenceJapanese": "テストを買いました。",
+    "exampleSentenceEnglish": "I bought a テスト.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "0d36184e-9303-444c-8444-c9b07426c9dd",
+    "japanese": "では",
+    "english": "then, well, so",
+    "exampleSentenceJapanese": "ではを買いました。",
+    "exampleSentenceEnglish": "I bought a では.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "0acc8a9a-8af7-4772-83bd-351fc3c7b250",
+    "japanese": "デパート",
+    "english": "(abbr.) department store",
+    "exampleSentenceJapanese": "デパートを買いました。",
+    "exampleSentenceEnglish": "I bought a デパート.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "465be192-2d03-41b5-8e50-a032cbaf1e16",
+    "japanese": "でも",
+    "english": "but, however",
+    "exampleSentenceJapanese": "でもを買いました。",
+    "exampleSentenceEnglish": "I bought a でも.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "42a1a337-d8d5-4575-9577-524d4cd71732",
+    "japanese": "出る",
+    "english": "to appear, to leave",
+    "exampleSentenceJapanese": "毎朝出るようにしています。",
+    "exampleSentenceEnglish": "I try to 出る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "250c2e0b-f06e-42d2-804f-9b5a575270fa",
+    "japanese": "テレビ",
+    "english": "television, TV",
+    "exampleSentenceJapanese": "テレビを買いました。",
+    "exampleSentenceEnglish": "I bought a テレビ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "82599a19-5b06-44e6-8788-26a9cf5ff1f8",
+    "japanese": "天気",
+    "english": "weather",
+    "exampleSentenceJapanese": "天気を買いました。",
+    "exampleSentenceEnglish": "I bought a 天気.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f86dce23-6c5d-4234-a3bb-28c3c26e095f",
+    "japanese": "電気",
+    "english": "electricity, (electric) light",
+    "exampleSentenceJapanese": "電気を買いました。",
+    "exampleSentenceEnglish": "I bought a 電気.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "4391bc6f-755f-4c64-9053-b44287aa5545",
+    "japanese": "電車",
+    "english": "electric train",
+    "exampleSentenceJapanese": "電車を買いました。",
+    "exampleSentenceEnglish": "I bought a 電車.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "79cc1dee-0540-49f4-a61c-53bc0999541c",
+    "japanese": "電話",
+    "english": "a telephone",
+    "exampleSentenceJapanese": "電話を買いました。",
+    "exampleSentenceEnglish": "I bought a 電話.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "8377631f-6cf8-4556-9fd3-d0436d43deef",
+    "japanese": "戸",
+    "english": "door (Japanese style)",
+    "exampleSentenceJapanese": "戸を買いました。",
+    "exampleSentenceEnglish": "I bought a 戸.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f8d86aa6-e478-42d4-863c-c7d06b2abe4f",
+    "japanese": "～度",
+    "english": "counter for occurrences; ~ degree; ~ point",
+    "exampleSentenceJapanese": "～度を買いました。",
+    "exampleSentenceEnglish": "I bought a ～度.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "bb0bfb71-58f3-4aa3-98d6-27c99ed8311d",
+    "japanese": "ドア",
+    "english": "door (Western style)",
+    "exampleSentenceJapanese": "ドアを買いました。",
+    "exampleSentenceEnglish": "I bought a ドア.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "40a935c5-c2eb-4eb6-b465-4cad9459d15f",
+    "japanese": "トイレ",
+    "english": "bathroom; toilet",
+    "exampleSentenceJapanese": "トイレを買いました。",
+    "exampleSentenceEnglish": "I bought a トイレ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "40347d70-c17f-4937-b515-0f06d1ed08f0",
+    "japanese": "どう",
+    "english": "how, in what way",
+    "exampleSentenceJapanese": "どうを買いました。",
+    "exampleSentenceEnglish": "I bought a どう.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "522e9d07-8421-49f0-a4f6-016eeb4b416a",
+    "japanese": "どうして",
+    "english": "why, for what reason",
+    "exampleSentenceJapanese": "どうしてを買いました。",
+    "exampleSentenceEnglish": "I bought a どうして.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "b144b544-d841-4564-881b-1dc12c19f470",
+    "japanese": "どうぞ",
+    "english": "please, kindly, by all means",
+    "exampleSentenceJapanese": "どうぞを買いました。",
+    "exampleSentenceEnglish": "I bought a どうぞ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d52ad0d7-e580-4d29-9fb2-375dde14dea9",
+    "japanese": "動物",
+    "english": "animal",
+    "exampleSentenceJapanese": "動物を買いました。",
+    "exampleSentenceEnglish": "I bought a 動物.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "5f67a06c-eca2-45bb-a4fb-405f2fd03e92",
+    "japanese": "どうも",
+    "english": "Thank you; somehow; no matter how hard one may try",
+    "exampleSentenceJapanese": "どうも、びっくりしました。",
+    "exampleSentenceEnglish": "どうも, I was surprised.",
+    "partOfSpeech": "感動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "87c3adf8-219c-48ad-b26b-61a001cc41a1",
+    "japanese": "十",
+    "english": "ten (~)",
+    "exampleSentenceJapanese": "十を買いました。",
+    "exampleSentenceEnglish": "I bought a 十.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "02c1ea21-c6c0-43a6-b731-c1b700590850",
+    "japanese": "遠い",
+    "english": "far (away), distant",
+    "exampleSentenceJapanese": "今日はとても遠いです。",
+    "exampleSentenceEnglish": "Today is very 遠い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "4183eea3-f926-4222-98be-ace7c0bcae1c",
+    "japanese": "十日",
+    "english": "ten days; tenth day of the month",
+    "exampleSentenceJapanese": "十日を買いました。",
+    "exampleSentenceEnglish": "I bought a 十日.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "6f52a1c9-6dc2-4f67-951f-2fc7c2c823e3",
+    "japanese": "～時",
+    "english": "at the time of ~",
+    "exampleSentenceJapanese": "～時を買いました。",
+    "exampleSentenceEnglish": "I bought a ～時.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "a996f2aa-0404-4194-9c2b-a8442e1e3010",
+    "japanese": "時々",
+    "english": "sometimes",
+    "exampleSentenceJapanese": "時々を買いました。",
+    "exampleSentenceEnglish": "I bought a 時々.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f5295744-10f9-4f02-8dc1-67ab9344a941",
+    "japanese": "時計",
+    "english": "a watch; a clock",
+    "exampleSentenceJapanese": "時計を買いました。",
+    "exampleSentenceEnglish": "I bought a 時計.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "fcce5125-5e95-4f33-ae65-948c8377a265",
+    "japanese": "どこ",
+    "english": "where, what place",
+    "exampleSentenceJapanese": "どこを買いました。",
+    "exampleSentenceEnglish": "I bought a どこ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "0d3304ad-766d-4381-8fa8-5f3b5481d148",
+    "japanese": "所",
+    "english": "place",
+    "exampleSentenceJapanese": "所を買いました。",
+    "exampleSentenceEnglish": "I bought a 所.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "a669ae08-4550-4369-9eff-8ab396891399",
+    "japanese": "年",
+    "english": "year, age",
+    "exampleSentenceJapanese": "年を買いました。",
+    "exampleSentenceEnglish": "I bought a 年.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "24069565-193e-4b2c-a023-ff0adb906b2c",
+    "japanese": "図書館",
+    "english": "library",
+    "exampleSentenceJapanese": "図書館を買いました。",
+    "exampleSentenceEnglish": "I bought a 図書館.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "8325d8cd-d754-450f-9c00-4c1a63f49470",
+    "japanese": "どちら",
+    "english": "which (one) (way); where (polite)",
+    "exampleSentenceJapanese": "どちらを買いました。",
+    "exampleSentenceEnglish": "I bought a どちら.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "b4078c80-8352-45bb-aa55-5e186feba84f",
+    "japanese": "どっち",
+    "english": "which one, which way",
+    "exampleSentenceJapanese": "どっちを買いました。",
+    "exampleSentenceEnglish": "I bought a どっち.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "bb600f9a-7daa-497c-ae51-3ce2dde64ad8",
+    "japanese": "とても",
+    "english": "very (much), greatly, exceedingly",
+    "exampleSentenceJapanese": "とてもを買いました。",
+    "exampleSentenceEnglish": "I bought a とても.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "70f9b6c8-0a9a-4c90-b540-637aa64b725f",
+    "japanese": "どなた",
+    "english": "who",
+    "exampleSentenceJapanese": "どなたを買いました。",
+    "exampleSentenceEnglish": "I bought a どなた.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "4b614b02-8434-4d69-93f6-da14a30b24b5",
+    "japanese": "隣",
+    "english": "next to, next door to",
+    "exampleSentenceJapanese": "隣を買いました。",
+    "exampleSentenceEnglish": "I bought a 隣.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "df705c2d-4265-419b-81d4-c59c01731683",
+    "japanese": "どの",
+    "english": "which",
+    "exampleSentenceJapanese": "どのを買いました。",
+    "exampleSentenceEnglish": "I bought a どの.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "654f2df9-b9b8-43b9-845f-b40d938270d7",
+    "japanese": "飛ぶ",
+    "english": "to fly, to hop",
+    "exampleSentenceJapanese": "飛ぶを買いました。",
+    "exampleSentenceEnglish": "I bought a 飛ぶ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "8b231ab5-ff30-41c6-8be4-02853ea76f75",
+    "japanese": "止まる",
+    "english": "to come to a halt",
+    "exampleSentenceJapanese": "毎朝止まるようにしています。",
+    "exampleSentenceEnglish": "I try to 止まる every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "51245023-490b-400d-af73-7b395460fc2b",
+    "japanese": "友達",
+    "english": "friend",
+    "exampleSentenceJapanese": "友達を買いました。",
+    "exampleSentenceEnglish": "I bought a 友達.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "5f1a6403-e923-4c5d-a23f-8b2d8a18c31e",
+    "japanese": "土曜日",
+    "english": "Saturday",
+    "exampleSentenceJapanese": "土曜日を買いました。",
+    "exampleSentenceEnglish": "I bought a 土曜日.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "23aa5e68-29a8-44e9-9370-8a7daffd442d",
+    "japanese": "鳥",
+    "english": "chicken (lit., bird)",
+    "exampleSentenceJapanese": "鳥を買いました。",
+    "exampleSentenceEnglish": "I bought a 鳥.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "1737c671-c372-4607-a2ee-6d5afa17f22b",
+    "japanese": "鶏肉",
+    "english": "chicken meat",
+    "exampleSentenceJapanese": "鶏肉を買いました。",
+    "exampleSentenceEnglish": "I bought a 鶏肉.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "0f3536dd-d0cd-41a2-9eb9-ad40ecd37dd8",
+    "japanese": "取る",
+    "english": "to take (a class); to get (a grade)",
+    "exampleSentenceJapanese": "毎朝取るようにしています。",
+    "exampleSentenceEnglish": "I try to 取る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "a93936e9-ffc7-4cad-8a6e-54f4ad60b35a",
+    "japanese": "撮る",
+    "english": "to take (a photo), to make (a film)",
+    "exampleSentenceJapanese": "毎朝撮るようにしています。",
+    "exampleSentenceEnglish": "I try to 撮る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e789ef62-1e23-41d9-9604-af2f0d3d576a",
+    "japanese": "どれ",
+    "english": "which one",
+    "exampleSentenceJapanese": "どれを買いました。",
+    "exampleSentenceEnglish": "I bought a どれ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "3734b65f-4a0c-4b1d-9b2f-fc01fc112b55",
+    "japanese": "どんな",
+    "english": "what, what kind of",
+    "exampleSentenceJapanese": "どんなな部屋に住んでいます。",
+    "exampleSentenceEnglish": "I live in a どんな room.",
+    "partOfSpeech": "な形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "2721d7c4-986c-420c-b8d7-690e67d05366",
+    "japanese": "ない",
+    "english": "there isn't, doesn't have",
+    "exampleSentenceJapanese": "今日はとてもないです。",
+    "exampleSentenceEnglish": "Today is very ない.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "6367fdc9-268a-4289-ad17-e8ef5f5c920d",
+    "japanese": "ナイフ",
+    "english": "knife",
+    "exampleSentenceJapanese": "ナイフを買いました。",
+    "exampleSentenceEnglish": "I bought a ナイフ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "95d94afc-bcf9-44d2-b6d4-b20f59bda630",
+    "japanese": "中",
+    "english": "inside, middle, among",
+    "exampleSentenceJapanese": "中を買いました。",
+    "exampleSentenceEnglish": "I bought a 中.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "53f8904f-127c-4dd8-bee6-89faf9172ca3",
+    "japanese": "長い",
+    "english": "long, lengthy",
+    "exampleSentenceJapanese": "今日はとても長いです。",
+    "exampleSentenceEnglish": "Today is very 長い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "ee5d439f-e7ad-496c-9aa6-57cf2df70324",
+    "japanese": "鳴く",
+    "english": "to make sound (animal)",
+    "exampleSentenceJapanese": "鳴くを買いました。",
+    "exampleSentenceEnglish": "I bought a 鳴く.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f0498450-218b-458b-821f-d370497d5148",
+    "japanese": "無くす",
+    "english": "to lose something",
+    "exampleSentenceJapanese": "無くすを買いました。",
+    "exampleSentenceEnglish": "I bought a 無くす.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "bb3e524a-0fd3-4f4b-8817-46f4f4ea1400",
+    "japanese": "なぜ",
+    "english": "why (same as どうして)",
+    "exampleSentenceJapanese": "なぜを買いました。",
+    "exampleSentenceEnglish": "I bought a なぜ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "9c1e822d-43dc-4b46-b9a3-cd1670b9603c",
+    "japanese": "夏",
+    "english": "summer",
+    "exampleSentenceJapanese": "夏を買いました。",
+    "exampleSentenceEnglish": "I bought a 夏.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "5320d2d7-ecbf-4c41-ae50-c7179c094dbf",
+    "japanese": "夏休み",
+    "english": "summer vacation",
+    "exampleSentenceJapanese": "夏休みを買いました。",
+    "exampleSentenceEnglish": "I bought a 夏休み.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "070b6125-4469-420e-bc4b-c482450a4d5e",
+    "japanese": "～など",
+    "english": "et cetera",
+    "exampleSentenceJapanese": "～などを買いました。",
+    "exampleSentenceEnglish": "I bought a ～など.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "4a991340-28e0-480a-b494-93def0cb27a6",
+    "japanese": "七つ",
+    "english": "seven things",
+    "exampleSentenceJapanese": "七つを買いました。",
+    "exampleSentenceEnglish": "I bought a 七つ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "cb5ff51e-ce86-420f-88ba-b5d115e7e6fa",
+    "japanese": "何",
+    "english": "what",
+    "exampleSentenceJapanese": "何を買いました。",
+    "exampleSentenceEnglish": "I bought a 何.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "1f39c78e-530a-441f-a675-05f5068a19c6",
+    "japanese": "七日",
+    "english": "seven days; seventh day (of the month)",
+    "exampleSentenceJapanese": "七日を買いました。",
+    "exampleSentenceEnglish": "I bought a 七日.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "3388eabe-385f-4aa6-9d36-582684afd6eb",
+    "japanese": "名前",
+    "english": "name",
+    "exampleSentenceJapanese": "名前を買いました。",
+    "exampleSentenceEnglish": "I bought a 名前.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "df6a1310-0bda-48ed-acd1-4156dd643399",
+    "japanese": "習う",
+    "english": "to learn",
+    "exampleSentenceJapanese": "習うを買いました。",
+    "exampleSentenceEnglish": "I bought a 習う.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "b1adee83-fbbd-46b0-a3f8-b43f8e82d72c",
+    "japanese": "並ぶ",
+    "english": "to line up, to stand in a line (v.i.)",
+    "exampleSentenceJapanese": "並ぶを買いました。",
+    "exampleSentenceEnglish": "I bought a 並ぶ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "8339a6ba-4c2f-48e7-9297-af59dde7c930",
+    "japanese": "並べる",
+    "english": "to put (things) side by side; to line up",
+    "exampleSentenceJapanese": "毎朝並べるようにしています。",
+    "exampleSentenceEnglish": "I try to 並べる every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "b80d2869-7c42-420e-8f61-0eca114616f6",
+    "japanese": "なる",
+    "english": "to become",
+    "exampleSentenceJapanese": "毎朝なるようにしています。",
+    "exampleSentenceEnglish": "I try to なる every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "9de0617d-2aa5-4ae0-9404-ef2b5a04042b",
+    "japanese": "何～",
+    "english": "what sort of ~",
+    "exampleSentenceJapanese": "何～を買いました。",
+    "exampleSentenceEnglish": "I bought a 何～.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "3e7d1a06-374e-4b45-ab1e-55b3f821ad9e",
+    "japanese": "二",
+    "english": "two",
+    "exampleSentenceJapanese": "二を買いました。",
+    "exampleSentenceEnglish": "I bought a 二.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "df7ffb3f-9b7f-44ac-984a-b40921d3050f",
+    "japanese": "にぎやか",
+    "english": "bustling, busy",
+    "exampleSentenceJapanese": "にぎやかを買いました。",
+    "exampleSentenceEnglish": "I bought a にぎやか.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "4a414fd8-ed73-4557-9eeb-1fbdcf67314c",
+    "japanese": "肉",
+    "english": "meat",
+    "exampleSentenceJapanese": "肉を買いました。",
+    "exampleSentenceEnglish": "I bought a 肉.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "19982fd9-dee6-4ad5-8d97-62b419ce82b9",
+    "japanese": "西",
+    "english": "west",
+    "exampleSentenceJapanese": "西を買いました。",
+    "exampleSentenceEnglish": "I bought a 西.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "a695b86b-efe8-46e2-9e66-980462f71389",
+    "japanese": "～日",
+    "english": "~ day of the month, for ~ days",
+    "exampleSentenceJapanese": "～日を買いました。",
+    "exampleSentenceEnglish": "I bought a ～日.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "9abb764a-2057-420f-9031-2f7f53bd76db",
+    "japanese": "日曜日",
+    "english": "Sunday",
+    "exampleSentenceJapanese": "日曜日を買いました。",
+    "exampleSentenceEnglish": "I bought a 日曜日.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "048a8e17-84c2-434a-892b-de81a990da21",
+    "japanese": "荷物",
+    "english": "luggage; baggage",
+    "exampleSentenceJapanese": "荷物を買いました。",
+    "exampleSentenceEnglish": "I bought a 荷物.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "9aec9852-20c5-48e0-a223-7ae802de58ef",
+    "japanese": "ニュース",
+    "english": "news",
+    "exampleSentenceJapanese": "ニュースを買いました。",
+    "exampleSentenceEnglish": "I bought a ニュース.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "464de798-2a98-48b3-852d-47901efb5ccc",
+    "japanese": "庭",
+    "english": "garden",
+    "exampleSentenceJapanese": "庭を買いました。",
+    "exampleSentenceEnglish": "I bought a 庭.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "0bf95f49-276b-46ad-8e2f-e1e1457b0db9",
+    "japanese": "～人",
+    "english": "counter for people",
+    "exampleSentenceJapanese": "～人を買いました。",
+    "exampleSentenceEnglish": "I bought a ～人.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c108393a-fd43-4214-85da-0d81779b3110",
+    "japanese": "脱ぐ",
+    "english": "to take off (clothes)",
+    "exampleSentenceJapanese": "脱ぐを買いました。",
+    "exampleSentenceEnglish": "I bought a 脱ぐ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "61865144-2e2d-4bbb-be57-2887d32b0bd6",
+    "japanese": "温い",
+    "english": "lukewarm",
+    "exampleSentenceJapanese": "今日はとても温いです。",
+    "exampleSentenceEnglish": "Today is very 温い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "fc5d0ec3-b615-40ad-b79c-eaddc28036f2",
+    "japanese": "ネクタイ",
+    "english": "tie, necktie",
+    "exampleSentenceJapanese": "ネクタイを買いました。",
+    "exampleSentenceEnglish": "I bought a ネクタイ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "764c5a36-3b65-4164-a574-dc63e1f9ba64",
+    "japanese": "猫",
+    "english": "cat",
+    "exampleSentenceJapanese": "猫を買いました。",
+    "exampleSentenceEnglish": "I bought a 猫.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "2fba00fc-87ec-4520-a71f-3f929746b0d1",
+    "japanese": "寝る",
+    "english": "to sleep; to go to sleep; to go to bed",
+    "exampleSentenceJapanese": "毎朝寝るようにしています。",
+    "exampleSentenceEnglish": "I try to 寝る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d05ccf4d-4fdc-4c42-a6d3-cc9bf481d868",
+    "japanese": "～年",
+    "english": "~ years",
+    "exampleSentenceJapanese": "～年を買いました。",
+    "exampleSentenceEnglish": "I bought a ～年.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "ca43680f-ce99-4f38-bc05-73ef4bcac5cf",
+    "japanese": "ノート",
+    "english": "notebook",
+    "exampleSentenceJapanese": "ノートを買いました。",
+    "exampleSentenceEnglish": "I bought a ノート.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c1f9cd6b-6fa3-4d6a-b640-117eea14632e",
+    "japanese": "登る",
+    "english": "to climb",
+    "exampleSentenceJapanese": "毎朝登るようにしています。",
+    "exampleSentenceEnglish": "I try to 登る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "30738fcd-d94c-4653-99d0-6d5a1598d75a",
+    "japanese": "飲み物",
+    "english": "drink, beverage",
+    "exampleSentenceJapanese": "飲み物を買いました。",
+    "exampleSentenceEnglish": "I bought a 飲み物.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "3faf573b-b020-4308-a0c3-2303140ce1b0",
+    "japanese": "飲む",
+    "english": "to drink",
+    "exampleSentenceJapanese": "飲むを買いました。",
+    "exampleSentenceEnglish": "I bought a 飲む.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "61f982f4-12c0-4acc-a0df-1bc111a8b766",
+    "japanese": "乗る",
+    "english": "to get on, to ride in, to board",
+    "exampleSentenceJapanese": "毎朝乗るようにしています。",
+    "exampleSentenceEnglish": "I try to 乗る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "daa28ca0-199b-4803-9154-0f9de8f51bc6",
+    "japanese": "歯",
+    "english": "tooth",
+    "exampleSentenceJapanese": "歯を買いました。",
+    "exampleSentenceEnglish": "I bought a 歯.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "0f9c4477-df1e-4fb7-a418-a71f1e25c82b",
+    "japanese": "パーティー",
+    "english": "a party",
+    "exampleSentenceJapanese": "パーティーを買いました。",
+    "exampleSentenceEnglish": "I bought a パーティー.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "03292316-04bb-4fb9-a789-7e999b45abc8",
+    "japanese": "はい",
+    "english": "yes",
+    "exampleSentenceJapanese": "今日はとてもはいです。",
+    "exampleSentenceEnglish": "Today is very はい.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "b8253c53-bf5a-4c43-b11a-3fe34c58841e",
+    "japanese": "～杯",
+    "english": "counter for cupfuls",
+    "exampleSentenceJapanese": "～杯を買いました。",
+    "exampleSentenceEnglish": "I bought a ～杯.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d84a909a-9867-41b2-bf0c-27415ec76d7d",
+    "japanese": "灰皿",
+    "english": "ashtray",
+    "exampleSentenceJapanese": "灰皿を買いました。",
+    "exampleSentenceEnglish": "I bought a 灰皿.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "22aed81d-f2d7-4061-b948-962bc9bc074f",
+    "japanese": "入る",
+    "english": "to enter, to contain, to hold",
+    "exampleSentenceJapanese": "毎朝入るようにしています。",
+    "exampleSentenceEnglish": "I try to 入る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "2f15580d-9055-47c2-b457-afb2d37314d0",
+    "japanese": "葉書",
+    "english": "postcard",
+    "exampleSentenceJapanese": "葉書を買いました。",
+    "exampleSentenceEnglish": "I bought a 葉書.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "78722de2-5798-4ff2-8ad9-83b1155ad81b",
+    "japanese": "はく",
+    "english": "to put on (items below your waist)",
+    "exampleSentenceJapanese": "はくを買いました。",
+    "exampleSentenceEnglish": "I bought a はく.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "24f2cc2b-8f9c-4064-87af-f94e7178595c",
+    "japanese": "箱",
+    "english": "box",
+    "exampleSentenceJapanese": "箱を買いました。",
+    "exampleSentenceEnglish": "I bought a 箱.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "71a4d7ac-19c0-4878-8d87-ec18ff68abba",
+    "japanese": "橋",
+    "english": "bridge",
+    "exampleSentenceJapanese": "橋を買いました。",
+    "exampleSentenceEnglish": "I bought a 橋.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "77651541-e649-4d71-bdb5-aecad131daa4",
+    "japanese": "箸",
+    "english": "chopsticks",
+    "exampleSentenceJapanese": "箸を買いました。",
+    "exampleSentenceEnglish": "I bought a 箸.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "396521d9-36ae-4caf-99f9-49b9536d353c",
+    "japanese": "始まる",
+    "english": "(something) begins",
+    "exampleSentenceJapanese": "毎朝始まるようにしています。",
+    "exampleSentenceEnglish": "I try to 始まる every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "1c7e9ed4-a6ec-4f9a-9c25-a45f756814bc",
+    "japanese": "初め; 始め",
+    "english": "beginning, start",
+    "exampleSentenceJapanese": "初め; 始めを買いました。",
+    "exampleSentenceEnglish": "I bought a 初め; 始め.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "4059e40c-b19a-439f-b6d3-89022eb58111",
+    "japanese": "初めて",
+    "english": "for the first time",
+    "exampleSentenceJapanese": "初めてを買いました。",
+    "exampleSentenceEnglish": "I bought a 初めて.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "1af93f96-ffeb-495e-a9eb-65c537bbec90",
+    "japanese": "走る",
+    "english": "to run",
+    "exampleSentenceJapanese": "毎朝走るようにしています。",
+    "exampleSentenceEnglish": "I try to 走る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "5e8fbfa3-ad78-418e-afe4-82a29c0d37ee",
+    "japanese": "バス",
+    "english": "bus; bath; bass",
+    "exampleSentenceJapanese": "バスを買いました。",
+    "exampleSentenceEnglish": "I bought a バス.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "421197ae-0486-4559-bd57-d4efa950741c",
+    "japanese": "バター",
+    "english": "butter",
+    "exampleSentenceJapanese": "バターを買いました。",
+    "exampleSentenceEnglish": "I bought a バター.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "99c478fd-380e-4fc4-80e0-b540f54355ad",
+    "japanese": "二十歳",
+    "english": "20 years old",
+    "exampleSentenceJapanese": "二十歳を買いました。",
+    "exampleSentenceEnglish": "I bought a 二十歳.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "65421e80-e5c4-4395-bb8e-96feae8f15a6",
+    "japanese": "働く",
+    "english": "to work",
+    "exampleSentenceJapanese": "働くを買いました。",
+    "exampleSentenceEnglish": "I bought a 働く.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f4475f26-dfb0-492b-8b2e-c675e2264839",
+    "japanese": "八",
+    "english": "eight",
+    "exampleSentenceJapanese": "八を買いました。",
+    "exampleSentenceEnglish": "I bought a 八.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "a47e1af1-0272-4df2-850c-11804d785607",
+    "japanese": "二十日",
+    "english": "twenty days, twentieth (day of the month)",
+    "exampleSentenceJapanese": "二十日を買いました。",
+    "exampleSentenceEnglish": "I bought a 二十日.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "ff5e7293-5203-4617-9644-4c33e74b0c33",
+    "japanese": "花",
+    "english": "flower",
+    "exampleSentenceJapanese": "花を買いました。",
+    "exampleSentenceEnglish": "I bought a 花.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d4dab8ea-2d4b-4306-a074-1b3c382c3aab",
+    "japanese": "鼻",
+    "english": "nose",
+    "exampleSentenceJapanese": "鼻を買いました。",
+    "exampleSentenceEnglish": "I bought a 鼻.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e2d7132f-1a4a-4561-b48e-d5000c095760",
+    "japanese": "話",
+    "english": "talk (chat), story",
+    "exampleSentenceJapanese": "話を買いました。",
+    "exampleSentenceEnglish": "I bought a 話.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "60ef3432-e8e7-4e3a-a3a6-95456b96a635",
+    "japanese": "話す",
+    "english": "to speak",
+    "exampleSentenceJapanese": "話すを買いました。",
+    "exampleSentenceEnglish": "I bought a 話す.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "cf685a2d-1f37-4c92-9e3f-bd63a12d1926",
+    "japanese": "母",
+    "english": "(my) mother",
+    "exampleSentenceJapanese": "母を買いました。",
+    "exampleSentenceEnglish": "I bought a 母.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "42d4afea-bfc4-427c-845c-fa44ccd0fce9",
+    "japanese": "早い",
+    "english": "early",
+    "exampleSentenceJapanese": "今日はとても早いです。",
+    "exampleSentenceEnglish": "Today is very 早い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "1851312b-84c0-42fd-9a9f-d44fc8ae4c7c",
+    "japanese": "速い",
+    "english": "fast, quick",
+    "exampleSentenceJapanese": "今日はとても速いです。",
+    "exampleSentenceEnglish": "Today is very 速い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "ef06e718-50da-4788-8280-79307014cc88",
+    "japanese": "春",
+    "english": "spring",
+    "exampleSentenceJapanese": "春を買いました。",
+    "exampleSentenceEnglish": "I bought a 春.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "3b881566-4bb2-4a6e-87a1-3d4d2bb5df40",
+    "japanese": "貼る",
+    "english": "to post; to paste; to attach",
+    "exampleSentenceJapanese": "毎朝貼るようにしています。",
+    "exampleSentenceEnglish": "I try to 貼る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "487475f7-3e25-48c3-8785-b2e65d569155",
+    "japanese": "晴れ",
+    "english": "clear (sunny) weather",
+    "exampleSentenceJapanese": "晴れを買いました。",
+    "exampleSentenceEnglish": "I bought a 晴れ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "3b80c693-d2f7-4a5a-92bc-5820d7618c08",
+    "japanese": "晴れる",
+    "english": "to be sunny",
+    "exampleSentenceJapanese": "毎朝晴れるようにしています。",
+    "exampleSentenceEnglish": "I try to 晴れる every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "5158b958-ecb1-4eb2-93a2-ae5775be04a6",
+    "japanese": "半",
+    "english": "half (e.g., にじはん | half-past two)",
+    "exampleSentenceJapanese": "半を買いました。",
+    "exampleSentenceEnglish": "I bought a 半.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "9ca4bb2b-7d5b-4073-8b68-a2b7acc16f67",
+    "japanese": "晩",
+    "english": "evening",
+    "exampleSentenceJapanese": "晩を買いました。",
+    "exampleSentenceEnglish": "I bought a 晩.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "9cd302d9-88cd-4ff6-bff8-7ae954305755",
+    "japanese": "～番",
+    "english": "~st; ~th best",
+    "exampleSentenceJapanese": "～番を買いました。",
+    "exampleSentenceEnglish": "I bought a ～番.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d39f7698-7f66-4c03-8481-6b18a6c25529",
+    "japanese": "パン",
+    "english": "bread",
+    "exampleSentenceJapanese": "パンを買いました。",
+    "exampleSentenceEnglish": "I bought a パン.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "40264ab9-c03e-411b-9bf7-e8a8bac2218f",
+    "japanese": "ハンカチ",
+    "english": "handkerchief",
+    "exampleSentenceJapanese": "ハンカチを買いました。",
+    "exampleSentenceEnglish": "I bought a ハンカチ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "21735aef-8225-4adb-af08-d599240c5402",
+    "japanese": "番号",
+    "english": "number, series of digits",
+    "exampleSentenceJapanese": "番号を買いました。",
+    "exampleSentenceEnglish": "I bought a 番号.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f2c97cf0-fd33-4e17-a36b-5f387e8dd294",
+    "japanese": "晩御飯",
+    "english": "dinner, evening meal",
+    "exampleSentenceJapanese": "晩御飯を買いました。",
+    "exampleSentenceEnglish": "I bought a 晩御飯.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "32ae4f39-e301-4cd9-a57c-75bfbee0e854",
+    "japanese": "半分",
+    "english": "half",
+    "exampleSentenceJapanese": "半分を買いました。",
+    "exampleSentenceEnglish": "I bought a 半分.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "ae5babfd-3993-4faa-963d-da99847a2d47",
+    "japanese": "東",
+    "english": "east",
+    "exampleSentenceJapanese": "東を買いました。",
+    "exampleSentenceEnglish": "I bought a 東.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "bef7cd4a-312e-419d-9bde-35b341e8c374",
+    "japanese": "～匹",
+    "english": "counter for small animals",
+    "exampleSentenceJapanese": "～匹を買いました。",
+    "exampleSentenceEnglish": "I bought a ～匹.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e9902496-9727-4a84-9fa0-889d24d2076f",
+    "japanese": "引く",
+    "english": "to pull, to draw; subtract",
+    "exampleSentenceJapanese": "引くを買いました。",
+    "exampleSentenceEnglish": "I bought a 引く.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e8c1ea72-9508-4786-be56-23cde6d65ef0",
+    "japanese": "弾く",
+    "english": "to play (a string instrument or piano)",
+    "exampleSentenceJapanese": "弾くを買いました。",
+    "exampleSentenceEnglish": "I bought a 弾く.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e67026ba-cc5e-4a6c-8b03-024add54fb00",
+    "japanese": "低い",
+    "english": "short, low",
+    "exampleSentenceJapanese": "今日はとても低いです。",
+    "exampleSentenceEnglish": "Today is very 低い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "7637294d-048f-41b1-bb6d-dadcf0523b2f",
+    "japanese": "飛行機",
+    "english": "airplane",
+    "exampleSentenceJapanese": "飛行機を買いました。",
+    "exampleSentenceEnglish": "I bought a 飛行機.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "9266d6f4-4ec3-4b75-8d19-709a7ed86e98",
+    "japanese": "左",
+    "english": "left hand side",
+    "exampleSentenceJapanese": "左を買いました。",
+    "exampleSentenceEnglish": "I bought a 左.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "41f18bb0-1337-46f8-a859-9d3449186dbf",
+    "japanese": "人",
+    "english": "man, person",
+    "exampleSentenceJapanese": "人を買いました。",
+    "exampleSentenceEnglish": "I bought a 人.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "3e898e9f-059e-4a05-997a-54a81cd5e634",
+    "japanese": "一つ",
+    "english": "one thing",
+    "exampleSentenceJapanese": "一つを買いました。",
+    "exampleSentenceEnglish": "I bought a 一つ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "195695ec-15bc-47ba-b1b7-b45f710c5b3a",
+    "japanese": "一月",
+    "english": "one month",
+    "exampleSentenceJapanese": "一月を買いました。",
+    "exampleSentenceEnglish": "I bought a 一月.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "ec1e94d4-6cb8-4278-8afe-0cabdcb0e20d",
+    "japanese": "一人",
+    "english": "one person",
+    "exampleSentenceJapanese": "一人を買いました。",
+    "exampleSentenceEnglish": "I bought a 一人.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "bcd36d8b-c718-42b3-ba5d-4157483e8e9f",
+    "japanese": "暇",
+    "english": "free time, leisure",
+    "exampleSentenceJapanese": "暇を買いました。",
+    "exampleSentenceEnglish": "I bought a 暇.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "3a627f63-c919-4f63-b942-18743191b141",
+    "japanese": "百",
+    "english": "hundred",
+    "exampleSentenceJapanese": "百を買いました。",
+    "exampleSentenceEnglish": "I bought a 百.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "bc6dcac7-9504-4794-8c93-8d3045d9297a",
+    "japanese": "病院",
+    "english": "hospital",
+    "exampleSentenceJapanese": "病院を買いました。",
+    "exampleSentenceEnglish": "I bought a 病院.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "da67097b-5408-4993-a0e8-543e1e6cce88",
+    "japanese": "病気",
+    "english": "illness; sickness",
+    "exampleSentenceJapanese": "病気を買いました。",
+    "exampleSentenceEnglish": "I bought a 病気.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c36be60c-bdcb-4ba2-b98f-2f7669eebd69",
+    "japanese": "平仮名",
+    "english": "hiragana",
+    "exampleSentenceJapanese": "平仮名を買いました。",
+    "exampleSentenceEnglish": "I bought a 平仮名.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "da486a2b-0f1e-46dd-94bb-c5b7cf48e79a",
+    "japanese": "昼",
+    "english": "noon, daytime",
+    "exampleSentenceJapanese": "昼を買いました。",
+    "exampleSentenceEnglish": "I bought a 昼.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "51169a26-2e98-4d3f-8ee4-952bded584ca",
+    "japanese": "昼御飯",
+    "english": "lunch, midday meal",
+    "exampleSentenceJapanese": "昼御飯を買いました。",
+    "exampleSentenceEnglish": "I bought a 昼御飯.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e949c578-d2b5-41bb-a236-f4fac8d81522",
+    "japanese": "広い",
+    "english": "spacious; wide; broad",
+    "exampleSentenceJapanese": "今日はとても広いです。",
+    "exampleSentenceEnglish": "Today is very 広い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "1dd9b338-fe09-4f23-ace1-581108ddfe3f",
+    "japanese": "フィルム",
+    "english": "film (roll of)",
+    "exampleSentenceJapanese": "フィルムを買いました。",
+    "exampleSentenceEnglish": "I bought a フィルム.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "8bf64b00-bb4e-4212-b5ce-9f376ae272d2",
+    "japanese": "封筒",
+    "english": "envelope",
+    "exampleSentenceJapanese": "封筒を買いました。",
+    "exampleSentenceEnglish": "I bought a 封筒.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "2d2298eb-dbc1-4843-958a-794b1a1cc62a",
+    "japanese": "プール",
+    "english": "swimming pool",
+    "exampleSentenceJapanese": "プールを買いました。",
+    "exampleSentenceEnglish": "I bought a プール.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "aab865aa-4230-48e7-a642-a9c2dbf35913",
+    "japanese": "フォーク",
+    "english": "fork",
+    "exampleSentenceJapanese": "フォークを買いました。",
+    "exampleSentenceEnglish": "I bought a フォーク.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "00b4c8d5-8dc3-4544-bad5-8b6a84998dbc",
+    "japanese": "吹く",
+    "english": "to blow (wind, etc.)",
+    "exampleSentenceJapanese": "吹くを買いました。",
+    "exampleSentenceEnglish": "I bought a 吹く.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c5b90961-c94b-4d6b-9848-026266802f0c",
+    "japanese": "服",
+    "english": "clothes",
+    "exampleSentenceJapanese": "服を買いました。",
+    "exampleSentenceEnglish": "I bought a 服.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f89ec296-b19e-44ed-8b49-bb28fd49aaf9",
+    "japanese": "二つ",
+    "english": "two things",
+    "exampleSentenceJapanese": "二つを買いました。",
+    "exampleSentenceEnglish": "I bought a 二つ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "2c2d0d7a-a385-484a-bb2e-c8b189803a88",
+    "japanese": "豚肉",
+    "english": "pork",
+    "exampleSentenceJapanese": "豚肉を買いました。",
+    "exampleSentenceEnglish": "I bought a 豚肉.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "ecd82598-c3c1-4c6c-8d77-d71635b1af85",
+    "japanese": "二人",
+    "english": "two people",
+    "exampleSentenceJapanese": "二人を買いました。",
+    "exampleSentenceEnglish": "I bought a 二人.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "abb5ce86-4a2d-4f89-8180-cacd2cd4a545",
+    "japanese": "二日",
+    "english": "two days; second day of the month",
+    "exampleSentenceJapanese": "二日を買いました。",
+    "exampleSentenceEnglish": "I bought a 二日.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "9e9e69c4-a971-47c0-abc1-5d7737514fc7",
+    "japanese": "太い",
+    "english": "fat, thick",
+    "exampleSentenceJapanese": "今日はとても太いです。",
+    "exampleSentenceEnglish": "Today is very 太い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "1d2a2d8c-f6b7-4ca3-97d5-b302b794cf73",
+    "japanese": "冬",
+    "english": "winter",
+    "exampleSentenceJapanese": "冬を買いました。",
+    "exampleSentenceEnglish": "I bought a 冬.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "581d2f5f-9270-4646-8183-49c108a2ae1e",
+    "japanese": "降る",
+    "english": "to precipitate, to fall (e.g., rain, snow, etc.)",
+    "exampleSentenceJapanese": "毎朝降るようにしています。",
+    "exampleSentenceEnglish": "I try to 降る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d2f88ee5-d2ff-4bc7-855a-7dc0b5050fec",
+    "japanese": "古い",
+    "english": "old (in reference to objects, not people), aged, ancient",
+    "exampleSentenceJapanese": "今日はとても古いです。",
+    "exampleSentenceEnglish": "Today is very 古い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "5110ebb9-9c13-4d97-9801-03d04714815a",
+    "japanese": "～分",
+    "english": "~ minutes",
+    "exampleSentenceJapanese": "～分を買いました。",
+    "exampleSentenceEnglish": "I bought a ～分.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "76fb77de-56c1-4523-b5ab-ac2db72945c6",
+    "japanese": "文章",
+    "english": "sentence, text",
+    "exampleSentenceJapanese": "文章を買いました。",
+    "exampleSentenceEnglish": "I bought a 文章.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "25fef07b-bdeb-4861-bc62-c6f1ff588e09",
+    "japanese": "ページ",
+    "english": "a page",
+    "exampleSentenceJapanese": "ページを買いました。",
+    "exampleSentenceEnglish": "I bought a ページ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "a351a395-1ca6-4fff-9f16-1ff4cc598afb",
+    "japanese": "下手",
+    "english": "unskillful, poor",
+    "exampleSentenceJapanese": "下手を買いました。",
+    "exampleSentenceEnglish": "I bought a 下手.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "96fb88dc-efff-44eb-9e82-6aeeeac6172b",
+    "japanese": "ベッド",
+    "english": "bed",
+    "exampleSentenceJapanese": "ベッドを買いました。",
+    "exampleSentenceEnglish": "I bought a ベッド.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "a1dd9ee2-f40e-49d3-82b0-255a1d2da88d",
+    "japanese": "ペット",
+    "english": "pet",
+    "exampleSentenceJapanese": "ペットを買いました。",
+    "exampleSentenceEnglish": "I bought a ペット.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "923cf15d-2dc7-45a1-9baf-b01c5cbc5562",
+    "japanese": "部屋",
+    "english": "a room",
+    "exampleSentenceJapanese": "部屋を買いました。",
+    "exampleSentenceEnglish": "I bought a 部屋.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "86d70d06-4bf6-4058-a75e-6c2eec2679d1",
+    "japanese": "辺",
+    "english": "area, vicinity",
+    "exampleSentenceJapanese": "辺を買いました。",
+    "exampleSentenceEnglish": "I bought a 辺.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "0e91ade8-0f7f-4b65-810c-e27cee459236",
+    "japanese": "ペン",
+    "english": "pen",
+    "exampleSentenceJapanese": "ペンを買いました。",
+    "exampleSentenceEnglish": "I bought a ペン.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c0e14a13-4f97-4142-9a23-2a7867e25170",
+    "japanese": "勉強 (する)",
+    "english": "study",
+    "exampleSentenceJapanese": "勉強 (する)を買いました。",
+    "exampleSentenceEnglish": "I bought a 勉強 (する).",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "927cf053-eff4-45ee-b817-9235e83b5d47",
+    "japanese": "便利",
+    "english": "convenient, handy",
+    "exampleSentenceJapanese": "便利を買いました。",
+    "exampleSentenceEnglish": "I bought a 便利.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "6b27ddea-25c2-42d4-899b-b25172f980e4",
+    "japanese": "帽子",
+    "english": "hat; cap",
+    "exampleSentenceJapanese": "帽子を買いました。",
+    "exampleSentenceEnglish": "I bought a 帽子.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "078992d7-8740-4835-833b-1a53cd53fe87",
+    "japanese": "ボールペン",
+    "english": "ball-point pen",
+    "exampleSentenceJapanese": "ボールペンを買いました。",
+    "exampleSentenceEnglish": "I bought a ボールペン.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "bc7b75d6-f085-42a0-a706-506af892ffed",
+    "japanese": "外",
+    "english": "other, the rest",
+    "exampleSentenceJapanese": "外を買いました。",
+    "exampleSentenceEnglish": "I bought a 外.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "0693cdd1-9619-4129-9b42-5e2449000c2d",
+    "japanese": "ポケット",
+    "english": "pocket",
+    "exampleSentenceJapanese": "ポケットを買いました。",
+    "exampleSentenceEnglish": "I bought a ポケット.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e95c96de-f046-4948-ab53-81de50946bcb",
+    "japanese": "欲しい",
+    "english": "to want, in need of",
+    "exampleSentenceJapanese": "今日はとても欲しいです。",
+    "exampleSentenceEnglish": "Today is very 欲しい.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "6490edc7-4cbb-4358-b31a-fc204d4208b7",
+    "japanese": "ポスト",
+    "english": "mailbox; post, position",
+    "exampleSentenceJapanese": "ポストを買いました。",
+    "exampleSentenceEnglish": "I bought a ポスト.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "31c07d03-5add-4531-be35-8de1ae45c25c",
+    "japanese": "細い",
+    "english": "thin, slender, fine",
+    "exampleSentenceJapanese": "今日はとても細いです。",
+    "exampleSentenceEnglish": "Today is very 細い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "17d33dd5-4572-4676-842a-d03be08f7960",
+    "japanese": "ボタン",
+    "english": "button",
+    "exampleSentenceJapanese": "ボタンを買いました。",
+    "exampleSentenceEnglish": "I bought a ボタン.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "a30e6d2e-c50f-4a8d-a309-e0b64b6a09c4",
+    "japanese": "ホテル",
+    "english": "hotel",
+    "exampleSentenceJapanese": "ホテルを買いました。",
+    "exampleSentenceEnglish": "I bought a ホテル.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "69823f69-51f6-4ece-ab23-e5b7ced86d6c",
+    "japanese": "本",
+    "english": "book",
+    "exampleSentenceJapanese": "本を買いました。",
+    "exampleSentenceEnglish": "I bought a 本.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "18261816-3419-4436-99bf-fca80d3aa8fc",
+    "japanese": "～本",
+    "english": "counter for long cylindrical things",
+    "exampleSentenceJapanese": "～本を買いました。",
+    "exampleSentenceEnglish": "I bought a ～本.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "6b4d4552-cd87-4ce1-858d-60339144352a",
+    "japanese": "本棚",
+    "english": "bookshelf",
+    "exampleSentenceJapanese": "本棚を買いました。",
+    "exampleSentenceEnglish": "I bought a 本棚.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e6ff470b-0723-4951-b5ef-90823a21091b",
+    "japanese": "本当",
+    "english": "real, true",
+    "exampleSentenceJapanese": "本当を買いました。",
+    "exampleSentenceEnglish": "I bought a 本当.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "40cd9eab-12e9-44b2-83c3-c04e6dbf1332",
+    "japanese": "～枚",
+    "english": "counter for flat things",
+    "exampleSentenceJapanese": "～枚を買いました。",
+    "exampleSentenceEnglish": "I bought a ～枚.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "47415def-c97f-4ca1-a97e-cbcfbb674f2e",
+    "japanese": "毎朝",
+    "english": "every morning",
+    "exampleSentenceJapanese": "毎朝を買いました。",
+    "exampleSentenceEnglish": "I bought a 毎朝.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "56f53c7f-9c15-4b81-a9d3-483ac7a90e0c",
+    "japanese": "毎月; まいつき",
+    "english": "every month, monthly",
+    "exampleSentenceJapanese": "毎月; まいつきを買いました。",
+    "exampleSentenceEnglish": "I bought a 毎月; まいつき.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "10ebdfbc-dee8-41bc-86a1-4e808750654c",
+    "japanese": "毎週",
+    "english": "every week",
+    "exampleSentenceJapanese": "毎週を買いました。",
+    "exampleSentenceEnglish": "I bought a 毎週.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "13dd386b-313a-432c-bb5e-ca86e3a3f55a",
+    "japanese": "毎日",
+    "english": "every day",
+    "exampleSentenceJapanese": "毎日を買いました。",
+    "exampleSentenceEnglish": "I bought a 毎日.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "492af2f2-c6ba-442b-984b-6412d5a24415",
+    "japanese": "毎年; まいとし",
+    "english": "every year, yearly, annually",
+    "exampleSentenceJapanese": "毎年; まいとしを買いました。",
+    "exampleSentenceEnglish": "I bought a 毎年; まいとし.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "a0cf65ca-c703-47e1-a0dd-3dab889a865b",
+    "japanese": "毎晩",
+    "english": "every night",
+    "exampleSentenceJapanese": "毎晩を買いました。",
+    "exampleSentenceEnglish": "I bought a 毎晩.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "a90f1dd5-1103-4f4c-b7e1-4aff2b1115f4",
+    "japanese": "前",
+    "english": "before, in front",
+    "exampleSentenceJapanese": "前を買いました。",
+    "exampleSentenceEnglish": "I bought a 前.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "3e43ba0e-2c11-4b8b-baa8-ad76832bf756",
+    "japanese": "～前",
+    "english": "in front of ~",
+    "exampleSentenceJapanese": "～前を買いました。",
+    "exampleSentenceEnglish": "I bought a ～前.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "0479a8d8-9e43-4c07-ae24-062b4c5172ff",
+    "japanese": "曲る",
+    "english": "to turn, to bend",
+    "exampleSentenceJapanese": "毎朝曲るようにしています。",
+    "exampleSentenceEnglish": "I try to 曲る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "bda87c69-a030-4909-8f03-d384f8bfbf00",
+    "japanese": "まずい",
+    "english": "terrible (in reference to food), unappetizing, unpleasant (taste)",
+    "exampleSentenceJapanese": "今日はとてもまずいです。",
+    "exampleSentenceEnglish": "Today is very まずい.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "a65ee97e-2e82-4a49-87fd-79165c4ddf4d",
+    "japanese": "また",
+    "english": "and; furthermore",
+    "exampleSentenceJapanese": "またを買いました。",
+    "exampleSentenceEnglish": "I bought a また.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d86a7006-c5aa-4586-b052-81e9bde96d0f",
+    "japanese": "まだ",
+    "english": "yet, still, besides",
+    "exampleSentenceJapanese": "まだを買いました。",
+    "exampleSentenceEnglish": "I bought a まだ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "6bd86c96-2d60-40d4-b0b4-3507b008f666",
+    "japanese": "町",
+    "english": "town; city",
+    "exampleSentenceJapanese": "町を買いました。",
+    "exampleSentenceEnglish": "I bought a 町.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "97c7d506-5a93-4bc1-8a11-9768b35565e2",
+    "japanese": "待つ",
+    "english": "to wait",
+    "exampleSentenceJapanese": "待つを買いました。",
+    "exampleSentenceEnglish": "I bought a 待つ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "ad304db8-0f07-4c6d-98ca-bed6c7b17578",
+    "japanese": "まっすぐ",
+    "english": "straight (ahead), direct",
+    "exampleSentenceJapanese": "まっすぐを買いました。",
+    "exampleSentenceEnglish": "I bought a まっすぐ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "ba98fc39-c0df-4e21-ab2d-5350f71c32fe",
+    "japanese": "マッチ",
+    "english": "match",
+    "exampleSentenceJapanese": "マッチを買いました。",
+    "exampleSentenceEnglish": "I bought a マッチ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "b8ce9d96-22f9-4cdf-9308-94000e25dac7",
+    "japanese": "窓",
+    "english": "window",
+    "exampleSentenceJapanese": "窓を買いました。",
+    "exampleSentenceEnglish": "I bought a 窓.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "0084836f-458e-4aad-9c0d-16949b5a878b",
+    "japanese": "丸い; 円い",
+    "english": "round, circular",
+    "exampleSentenceJapanese": "今日はとても丸い; 円いです。",
+    "exampleSentenceEnglish": "Today is very 丸い; 円い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "684244de-f9f7-4a9f-af0d-3fae82882a7d",
+    "japanese": "万",
+    "english": "ten thousand",
+    "exampleSentenceJapanese": "万を買いました。",
+    "exampleSentenceEnglish": "I bought a 万.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "6e95504a-ee2a-4e9a-8d06-845907662dbc",
+    "japanese": "万年筆",
+    "english": "fountain pen",
+    "exampleSentenceJapanese": "万年筆を買いました。",
+    "exampleSentenceEnglish": "I bought a 万年筆.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "360180bc-c674-4574-890a-4b20de56934d",
+    "japanese": "磨く",
+    "english": "to brush (teeth); to polish",
+    "exampleSentenceJapanese": "磨くを買いました。",
+    "exampleSentenceEnglish": "I bought a 磨く.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f9dea215-b091-445b-9daa-3ce8190a2feb",
+    "japanese": "右",
+    "english": "right hand side",
+    "exampleSentenceJapanese": "右を買いました。",
+    "exampleSentenceEnglish": "I bought a 右.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c5fc1879-1194-48e1-ba98-499e132194ec",
+    "japanese": "短い",
+    "english": "short (length)",
+    "exampleSentenceJapanese": "今日はとても短いです。",
+    "exampleSentenceEnglish": "Today is very 短い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "b1a0eda1-2c6a-4b9f-8b86-f246bfa61680",
+    "japanese": "水",
+    "english": "water",
+    "exampleSentenceJapanese": "水を買いました。",
+    "exampleSentenceEnglish": "I bought a 水.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d6468ece-8d11-41d7-b064-66d5d559e3eb",
+    "japanese": "店",
+    "english": "store, shop",
+    "exampleSentenceJapanese": "店を買いました。",
+    "exampleSentenceEnglish": "I bought a 店.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "356f4fc2-01f8-46e1-986a-34d5c689013e",
+    "japanese": "見せる",
+    "english": "to show, to display",
+    "exampleSentenceJapanese": "毎朝見せるようにしています。",
+    "exampleSentenceEnglish": "I try to 見せる every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "994c0ce0-3d90-4b6c-9860-6d586e8db512",
+    "japanese": "道",
+    "english": "road, street; way, directions",
+    "exampleSentenceJapanese": "道を買いました。",
+    "exampleSentenceEnglish": "I bought a 道.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "31908806-471e-471c-a1bf-e9416168bfc9",
+    "japanese": "三日",
+    "english": "three days, third day of the month",
+    "exampleSentenceJapanese": "三日を買いました。",
+    "exampleSentenceEnglish": "I bought a 三日.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "becc1a9c-d31d-42f6-9b85-aba2d63b7f74",
+    "japanese": "三つ",
+    "english": "three things",
+    "exampleSentenceJapanese": "三つを買いました。",
+    "exampleSentenceEnglish": "I bought a 三つ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e0eea6a1-25a8-4fac-b74e-fcb6261e9762",
+    "japanese": "緑",
+    "english": "green",
+    "exampleSentenceJapanese": "緑を買いました。",
+    "exampleSentenceEnglish": "I bought a 緑.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "b4263f75-8be3-4643-9291-0464dd5be55e",
+    "japanese": "皆さん",
+    "english": "all of you, everyone",
+    "exampleSentenceJapanese": "皆さんを買いました。",
+    "exampleSentenceEnglish": "I bought a 皆さん.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d4205ea4-ccda-404b-b0e2-98374fbb447e",
+    "japanese": "南",
+    "english": "South",
+    "exampleSentenceJapanese": "南を買いました。",
+    "exampleSentenceEnglish": "I bought a 南.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "3e6d7067-7cf7-43c4-a820-06356f28696e",
+    "japanese": "耳",
+    "english": "ear",
+    "exampleSentenceJapanese": "耳を買いました。",
+    "exampleSentenceEnglish": "I bought a 耳.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "0d8e520f-cdc3-442f-ab9a-3fe12240e6c8",
+    "japanese": "見る",
+    "english": "to see, to look",
+    "exampleSentenceJapanese": "毎朝見るようにしています。",
+    "exampleSentenceEnglish": "I try to 見る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e764bf52-5bc2-4698-abda-77db6849f6b3",
+    "japanese": "みんな",
+    "english": "all, everyone, everybody",
+    "exampleSentenceJapanese": "みんなな部屋に住んでいます。",
+    "exampleSentenceEnglish": "I live in a みんな room.",
+    "partOfSpeech": "な形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "7545fd35-bbfe-41fb-93a0-a411b9b846c1",
+    "japanese": "六日",
+    "english": "six days; sixth day of month",
+    "exampleSentenceJapanese": "六日を買いました。",
+    "exampleSentenceEnglish": "I bought a 六日.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "fdd88c76-a28c-475f-9b0e-7bff32601011",
+    "japanese": "向こう",
+    "english": "beyond, over there",
+    "exampleSentenceJapanese": "向こうを買いました。",
+    "exampleSentenceEnglish": "I bought a 向こう.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e02da12c-d97d-4fe6-8969-106291066842",
+    "japanese": "難しい",
+    "english": "difficult",
+    "exampleSentenceJapanese": "今日はとても難しいです。",
+    "exampleSentenceEnglish": "Today is very 難しい.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "80b5720e-78b8-48c5-ba79-e4665aeaf3f4",
+    "japanese": "六つ",
+    "english": "six things",
+    "exampleSentenceJapanese": "六つを買いました。",
+    "exampleSentenceEnglish": "I bought a 六つ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "bc00d7c6-2327-4e9a-a9bd-7b458ac02415",
+    "japanese": "村",
+    "english": "village",
+    "exampleSentenceJapanese": "村を買いました。",
+    "exampleSentenceEnglish": "I bought a 村.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "25bbfb90-79f9-4987-b1b1-16467d67e0ea",
+    "japanese": "目",
+    "english": "eye(s)",
+    "exampleSentenceJapanese": "目を買いました。",
+    "exampleSentenceEnglish": "I bought a 目.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "fa9324ac-ba45-4d3f-a23f-096e3719c3ed",
+    "japanese": "メートル",
+    "english": "meter",
+    "exampleSentenceJapanese": "メートルを買いました。",
+    "exampleSentenceEnglish": "I bought a メートル.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "1b6de12d-1182-4941-8946-b42a3196f8a5",
+    "japanese": "眼鏡",
+    "english": "eye glasses",
+    "exampleSentenceJapanese": "眼鏡を買いました。",
+    "exampleSentenceEnglish": "I bought a 眼鏡.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "1136a0f7-8fc5-4dc2-9e55-396a2b00890f",
+    "japanese": "もう",
+    "english": "already; again; more",
+    "exampleSentenceJapanese": "もうを買いました。",
+    "exampleSentenceEnglish": "I bought a もう.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "7f319659-10f9-4f6c-873e-b224056ee250",
+    "japanese": "木曜日",
+    "english": "Thursday",
+    "exampleSentenceJapanese": "木曜日を買いました。",
+    "exampleSentenceEnglish": "I bought a 木曜日.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "44ebfc24-ac35-4a5c-bad8-e71b73c5ccff",
+    "japanese": "もしもし",
+    "english": "Hello? (used on the phone)",
+    "exampleSentenceJapanese": "もしもしを買いました。",
+    "exampleSentenceEnglish": "I bought a もしもし.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "3b522494-99a2-49c0-91bb-ff2dd9d5668f",
+    "japanese": "持つ",
+    "english": "to hold, to carry; to possess",
+    "exampleSentenceJapanese": "持つを買いました。",
+    "exampleSentenceEnglish": "I bought a 持つ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "1a4ed769-bacd-40ce-a467-f8268276de50",
+    "japanese": "もっと",
+    "english": "more",
+    "exampleSentenceJapanese": "もっとを買いました。",
+    "exampleSentenceEnglish": "I bought a もっと.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f2551964-ed49-4b10-8682-8e5a9f348615",
+    "japanese": "物",
+    "english": "thing (concrete object)",
+    "exampleSentenceJapanese": "物を買いました。",
+    "exampleSentenceEnglish": "I bought a 物.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "1790a831-a885-42d5-9f68-5cac7bd3700d",
+    "japanese": "門",
+    "english": "gate",
+    "exampleSentenceJapanese": "門を買いました。",
+    "exampleSentenceEnglish": "I bought a 門.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "93229667-b960-4b60-9969-80e968034889",
+    "japanese": "問題",
+    "english": "a problem",
+    "exampleSentenceJapanese": "問題を買いました。",
+    "exampleSentenceEnglish": "I bought a 問題.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "0f3319c5-02cd-4f45-b2f2-d6a0ef3cfbb8",
+    "japanese": "～屋",
+    "english": "~ shop",
+    "exampleSentenceJapanese": "～屋を買いました。",
+    "exampleSentenceEnglish": "I bought a ～屋.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N/A"
+  },
+  {
+    "id": "ea73fbbf-4758-4d4a-a07d-55023d14d2c8",
+    "japanese": "八百屋",
+    "english": "greengrocer",
+    "exampleSentenceJapanese": "八百屋を買いました。",
+    "exampleSentenceEnglish": "I bought a 八百屋.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "cf070d78-bc01-4451-a567-415333020209",
+    "japanese": "野菜",
+    "english": "vegetable",
+    "exampleSentenceJapanese": "野菜を買いました。",
+    "exampleSentenceEnglish": "I bought a 野菜.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "b4db2dbc-062a-47dc-ab99-e2bb930a791e",
+    "japanese": "易しい",
+    "english": "easy, plain, simple",
+    "exampleSentenceJapanese": "今日はとても易しいです。",
+    "exampleSentenceEnglish": "Today is very 易しい.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "05e1e194-d6de-40f9-a61e-38bb574fdd64",
+    "japanese": "安い",
+    "english": "inexpensive; cheap (things)",
+    "exampleSentenceJapanese": "今日はとても安いです。",
+    "exampleSentenceEnglish": "Today is very 安い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "b827ca0b-5f1a-48e1-901d-6d1905427139",
+    "japanese": "休み",
+    "english": "holiday; day off; absence",
+    "exampleSentenceJapanese": "休みを買いました。",
+    "exampleSentenceEnglish": "I bought a 休み.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "1d2a3f54-2971-4b05-85d0-588762654800",
+    "japanese": "休む",
+    "english": "to rest, to have a break, to get time off",
+    "exampleSentenceJapanese": "休むを買いました。",
+    "exampleSentenceEnglish": "I bought a 休む.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c23ba0b0-28bf-44aa-ba69-ab857ffcd71d",
+    "japanese": "八つ",
+    "english": "eight things",
+    "exampleSentenceJapanese": "八つを買いました。",
+    "exampleSentenceEnglish": "I bought a 八つ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "3011d8cf-fd80-43bf-82d1-9733d5b82026",
+    "japanese": "山",
+    "english": "mountain",
+    "exampleSentenceJapanese": "山を買いました。",
+    "exampleSentenceEnglish": "I bought a 山.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "240dee08-c920-4163-9754-45ae8c57d67e",
+    "japanese": "やる",
+    "english": "to do; to give (to pets, parents, siblings, etc.)",
+    "exampleSentenceJapanese": "毎朝やるようにしています。",
+    "exampleSentenceEnglish": "I try to やる every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "a1da0991-6b6b-49e9-a36a-091abd03d353",
+    "japanese": "夕方",
+    "english": "late afternoon (typically just before dinner time), evening",
+    "exampleSentenceJapanese": "夕方を買いました。",
+    "exampleSentenceEnglish": "I bought a 夕方.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f5c2d4aa-fe97-45de-ab1d-25ae8cfe9ccf",
+    "japanese": "夕飯",
+    "english": "dinner, supper, evening meal",
+    "exampleSentenceJapanese": "夕飯を買いました。",
+    "exampleSentenceEnglish": "I bought a 夕飯.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "518f1d9a-7c6a-4cff-a9d8-a8455a8b5723",
+    "japanese": "郵便局",
+    "english": "post office",
+    "exampleSentenceJapanese": "郵便局を買いました。",
+    "exampleSentenceEnglish": "I bought a 郵便局.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "8ea6f2c3-afd5-442f-bf22-9de931582254",
+    "japanese": "昨夜",
+    "english": "last night",
+    "exampleSentenceJapanese": "昨夜を買いました。",
+    "exampleSentenceEnglish": "I bought a 昨夜.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c9f8424d-1141-40cc-bc23-d44d9eb4262b",
+    "japanese": "有名",
+    "english": "famous",
+    "exampleSentenceJapanese": "有名な部屋に住んでいます。",
+    "exampleSentenceEnglish": "I live in a 有名 room.",
+    "partOfSpeech": "な形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "3ad3e6a7-80a0-49d3-ab72-eee8b91dc1bc",
+    "japanese": "雪",
+    "english": "snow",
+    "exampleSentenceJapanese": "雪を買いました。",
+    "exampleSentenceEnglish": "I bought a 雪.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "ff7fe823-a748-49b2-9001-52ccb333493d",
+    "japanese": "ゆっくりと",
+    "english": "slowly, at ease",
+    "exampleSentenceJapanese": "ゆっくりとを買いました。",
+    "exampleSentenceEnglish": "I bought a ゆっくりと.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "da699823-0d75-4a82-bbd9-a928006f4c72",
+    "japanese": "八日",
+    "english": "eight days; eighth day of the month",
+    "exampleSentenceJapanese": "八日を買いました。",
+    "exampleSentenceEnglish": "I bought a 八日.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "dc72217d-72bd-4611-8f1d-502c598985b3",
+    "japanese": "洋服",
+    "english": "Western-style clothes",
+    "exampleSentenceJapanese": "洋服を買いました。",
+    "exampleSentenceEnglish": "I bought a 洋服.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f176e883-5d82-4030-9631-c4f4077d841b",
+    "japanese": "よく",
+    "english": "frequently, often (much); well, skillfully",
+    "exampleSentenceJapanese": "よくを買いました。",
+    "exampleSentenceEnglish": "I bought a よく.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "ee2eb9b6-0fc3-4ec3-ae38-78af56c2e27c",
+    "japanese": "横",
+    "english": "beside; side; width",
+    "exampleSentenceJapanese": "横を買いました。",
+    "exampleSentenceEnglish": "I bought a 横.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "494a1844-26b7-4c95-9da7-3936853bc4f7",
+    "japanese": "四日",
+    "english": "four days; fourth day of the month",
+    "exampleSentenceJapanese": "四日を買いました。",
+    "exampleSentenceEnglish": "I bought a 四日.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "ccf06177-c9e0-45fb-97f9-849b98bc7115",
+    "japanese": "四つ",
+    "english": "four things",
+    "exampleSentenceJapanese": "四つを買いました。",
+    "exampleSentenceEnglish": "I bought a 四つ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "6f4377d2-a5aa-499a-bf44-a1ddd45d9e91",
+    "japanese": "呼ぶ",
+    "english": "to call (one's name); to invite",
+    "exampleSentenceJapanese": "呼ぶを買いました。",
+    "exampleSentenceEnglish": "I bought a 呼ぶ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "6ed85ccc-9248-47ec-8b6a-b9885bb90f95",
+    "japanese": "読む",
+    "english": "to read",
+    "exampleSentenceJapanese": "読むを買いました。",
+    "exampleSentenceEnglish": "I bought a 読む.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e013075b-5d4f-43e4-8b63-460619a840cf",
+    "japanese": "夜",
+    "english": "evening, night",
+    "exampleSentenceJapanese": "夜を買いました。",
+    "exampleSentenceEnglish": "I bought a 夜.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "0da705c9-01dd-436a-8ab0-f4cae2017f60",
+    "japanese": "弱い",
+    "english": "weak",
+    "exampleSentenceJapanese": "今日はとても弱いです。",
+    "exampleSentenceEnglish": "Today is very 弱い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "887d6934-e619-4a0e-8fe8-42c6b79d0ce0",
+    "japanese": "来月",
+    "english": "next month",
+    "exampleSentenceJapanese": "来月を買いました。",
+    "exampleSentenceEnglish": "I bought a 来月.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "35a376d8-4b35-4601-809f-7d01a8fc8f7f",
+    "japanese": "来週",
+    "english": "next week",
+    "exampleSentenceJapanese": "来週を買いました。",
+    "exampleSentenceEnglish": "I bought a 来週.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "05c4a8ca-a294-4338-95d2-80c768732715",
+    "japanese": "来年",
+    "english": "next year",
+    "exampleSentenceJapanese": "来年を買いました。",
+    "exampleSentenceEnglish": "I bought a 来年.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "ec3a5e08-5475-4144-a05e-ecc13c08439b",
+    "japanese": "ラジオ",
+    "english": "radio",
+    "exampleSentenceJapanese": "ラジオを買いました。",
+    "exampleSentenceEnglish": "I bought a ラジオ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "f25c5c83-3375-4ecb-b3f2-39ee74f82fe8",
+    "japanese": "ラジオカセ",
+    "english": "radio cassette player",
+    "exampleSentenceJapanese": "ラジオカセを買いました。",
+    "exampleSentenceEnglish": "I bought a ラジオカセ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "5db137fd-99a9-4db0-9bb5-bbd97ec98ceb",
+    "japanese": "りっぱ",
+    "english": "splendid, fine",
+    "exampleSentenceJapanese": "りっぱを買いました。",
+    "exampleSentenceEnglish": "I bought a りっぱ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "41a8127f-9585-43ba-8df7-429d357f8d7c",
+    "japanese": "留学生",
+    "english": "international student",
+    "exampleSentenceJapanese": "留学生を買いました。",
+    "exampleSentenceEnglish": "I bought a 留学生.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d6347305-571c-4928-b911-7ef81cefe839",
+    "japanese": "両親",
+    "english": "parents (lit., both parents)",
+    "exampleSentenceJapanese": "両親を買いました。",
+    "exampleSentenceEnglish": "I bought a 両親.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "a48d21a6-6f4b-4eb7-a08b-df9e1c78aec6",
+    "japanese": "料理",
+    "english": "cooking; cuisine",
+    "exampleSentenceJapanese": "料理を買いました。",
+    "exampleSentenceEnglish": "I bought a 料理.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "443a589a-c384-4482-8e67-c9432f75e358",
+    "japanese": "旅行",
+    "english": "travel, trip",
+    "exampleSentenceJapanese": "旅行を買いました。",
+    "exampleSentenceEnglish": "I bought a 旅行.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "b03c0db8-a50f-4baf-a14f-511a2ebc9605",
+    "japanese": "零",
+    "english": "zero, nought",
+    "exampleSentenceJapanese": "零を買いました。",
+    "exampleSentenceEnglish": "I bought a 零.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "9fa347e9-3733-41f3-bdfb-a357e5a306c6",
+    "japanese": "冷蔵庫",
+    "english": "refrigerator",
+    "exampleSentenceJapanese": "冷蔵庫を買いました。",
+    "exampleSentenceEnglish": "I bought a 冷蔵庫.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "7f4a0ec9-001e-445f-9639-e29174e2a109",
+    "japanese": "レコード",
+    "english": "record",
+    "exampleSentenceJapanese": "レコードを買いました。",
+    "exampleSentenceEnglish": "I bought a レコード.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "62f89cc1-2026-43d5-a0ea-97514dff887e",
+    "japanese": "レストラン",
+    "english": "restaurant",
+    "exampleSentenceJapanese": "レストランを買いました。",
+    "exampleSentenceEnglish": "I bought a レストラン.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "9ebca1e2-bf80-4959-98c5-0109416aca5f",
+    "japanese": "練習 (する)",
+    "english": "(to) practice",
+    "exampleSentenceJapanese": "練習 (する)を買いました。",
+    "exampleSentenceEnglish": "I bought a 練習 (する).",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "76a1427b-c5aa-4e14-afee-7aef30d56853",
+    "japanese": "廊下",
+    "english": "corridor",
+    "exampleSentenceJapanese": "廊下を買いました。",
+    "exampleSentenceEnglish": "I bought a 廊下.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "e6ea1ab1-d5cb-4f61-bd70-a400afb8c5e8",
+    "japanese": "六",
+    "english": "six",
+    "exampleSentenceJapanese": "六を買いました。",
+    "exampleSentenceEnglish": "I bought a 六.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "54144249-e8f5-4990-a61e-ea2cf36fc23a",
+    "japanese": "ワイシャツ",
+    "english": "shirt (lit: white shirt), business shirt",
+    "exampleSentenceJapanese": "ワイシャツを買いました。",
+    "exampleSentenceEnglish": "I bought a ワイシャツ.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "da9bfd26-8228-4962-a26c-7eaf980f25b5",
+    "japanese": "若い",
+    "english": "young",
+    "exampleSentenceJapanese": "今日はとても若いです。",
+    "exampleSentenceEnglish": "Today is very 若い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "94216506-a41f-454a-8339-dd46fd49cfbc",
+    "japanese": "分かる",
+    "english": "to understand",
+    "exampleSentenceJapanese": "毎朝分かるようにしています。",
+    "exampleSentenceEnglish": "I try to 分かる every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "4a0249b1-7b7e-4b48-9fb3-5c3131e5f367",
+    "japanese": "忘れる",
+    "english": "to forget",
+    "exampleSentenceJapanese": "毎朝忘れるようにしています。",
+    "exampleSentenceEnglish": "I try to 忘れる every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "d44bd728-abb6-4ac7-85c4-1b3884fcdc86",
+    "japanese": "私",
+    "english": "I, myself",
+    "exampleSentenceJapanese": "私を買いました。",
+    "exampleSentenceEnglish": "I bought a 私.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "861b00f3-0306-46af-bb14-b468e7e4ae81",
+    "japanese": "私",
+    "english": "I (formal), myself, private affairs",
+    "exampleSentenceJapanese": "私を買いました。",
+    "exampleSentenceEnglish": "I bought a 私.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "57b7561c-918d-4478-a4b1-9d124cafaeed",
+    "japanese": "渡す",
+    "english": "to hand (something) over (v.t.); to get across",
+    "exampleSentenceJapanese": "渡すを買いました。",
+    "exampleSentenceEnglish": "I bought a 渡す.",
+    "partOfSpeech": "名詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c21c2612-b83b-4d4a-9826-2b4c0f2636c6",
+    "japanese": "渡る",
+    "english": "to cross over, to go across",
+    "exampleSentenceJapanese": "毎朝渡るようにしています。",
+    "exampleSentenceEnglish": "I try to 渡る every morning.",
+    "partOfSpeech": "動詞",
+    "jlptLevel": "N5"
+  },
+  {
+    "id": "c4a47a59-8896-48df-8df9-733dee87e1f5",
+    "japanese": "悪い",
+    "english": "bad, sinful; inferior",
+    "exampleSentenceJapanese": "今日はとても悪いです。",
+    "exampleSentenceEnglish": "Today is very 悪い.",
+    "partOfSpeech": "い形容詞",
+    "jlptLevel": "N5"
+  }
+]
