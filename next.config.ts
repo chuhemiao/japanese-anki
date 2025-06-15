@@ -1,12 +1,29 @@
-import type {NextConfig} from 'next';
+import type { NextConfig } from 'next';
 
 const nextConfig: NextConfig = {
   /* config options here */
   typescript: {
-    ignoreBuildErrors: true,
+    ignoreBuildErrors: true
   },
   eslint: {
-    ignoreDuringBuilds: true,
+    ignoreDuringBuilds: true
+  },
+  webpack: (config, { isServer }) => {
+    if (!isServer) {
+      config.externals = config.externals || [];
+      config.externals.push({
+        handlebars: 'commonjs handlebars'
+      });
+
+      config.resolve.fallback = {
+        ...config.resolve.fallback,
+        fs: false,
+        path: false,
+        os: false
+      };
+    }
+
+    return config;
   },
   images: {
     remotePatterns: [
@@ -14,10 +31,10 @@ const nextConfig: NextConfig = {
         protocol: 'https',
         hostname: 'placehold.co',
         port: '',
-        pathname: '/**',
-      },
-    ],
-  },
+        pathname: '/**'
+      }
+    ]
+  }
 };
 
 export default nextConfig;
