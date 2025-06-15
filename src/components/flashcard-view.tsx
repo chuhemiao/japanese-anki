@@ -72,6 +72,11 @@ export function FlashcardView({
         className='mt-4 sm:mt-6 text-primary hover:text-primary/80'>
         <Volume2 className='h-7 w-7 sm:h-8 sm:w-8' />
       </Button>
+      <div className='relative group  cursor-pointer'>
+        <div className='mt-5 w-max px-3 py-1 text-sm text-white bg-[hsla(253,30%,68%,1)] rounded-lg opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none z-10'>
+          Reading： {cardData.reading}
+        </div>
+      </div>
     </div>
   );
 
